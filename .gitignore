@@ -1,0 +1,32 @@
+# Bases de dados (baixar de novo seguindo o README)
+dados/
+*.zip
+*.7z
+*.rar
+*.xlsx
+*.parquet
+*.feather
+
+# Censo descompactado (centenas de MB)
+microdados_censo_escolar_*/
+
+# Tabelas geradas grandes (refazer com preparar_dados.py)
+**/fato_rendimento_escola.csv
+**/fato_municipio.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciais
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+Thumbs.db
+Desktop.ini

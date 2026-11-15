@@ -1,0 +1,721 @@
+﻿CO_TERRITORIO;TERRITORIO;ANO;SEXO;IDADE_SAIDA;CV_%;VALOR
+1;Brasil;2019;Homens;14 anos;3,90;7,70
+1;Brasil;2019;Homens;15 anos;2,90;13,60
+1;Brasil;2019;Homens;16 anos;2,60;17,40
+1;Brasil;2019;Homens;17 anos;2,50;17,90
+1;Brasil;2019;Homens;18 anos;2,30;16,70
+1;Brasil;2019;Homens;19 anos ou mais;2,20;17,50
+1;Brasil;2019;Homens;Total;;100,00
+1;Brasil;2019;Homens;até os 13 anos;3,50;9,00
+1;Brasil;2019;Mulheres;14 anos;3,60;8,90
+1;Brasil;2019;Mulheres;15 anos;3,10;14,90
+1;Brasil;2019;Mulheres;16 anos;2,80;18,10
+1;Brasil;2019;Mulheres;17 anos;2,90;17,50
+1;Brasil;2019;Mulheres;18 anos;3,10;14,20
+1;Brasil;2019;Mulheres;19 anos ou mais;2,70;18,60
+1;Brasil;2019;Mulheres;Total;;100,00
+1;Brasil;2019;Mulheres;até os 13 anos;4,30;7,70
+1;Brasil;2019;Total;14 anos;2,60;8,20
+1;Brasil;2019;Total;15 anos;2,30;14,20
+1;Brasil;2019;Total;16 anos;2,00;17,70
+1;Brasil;2019;Total;17 anos;1,90;17,80
+1;Brasil;2019;Total;18 anos;1,90;15,70
+1;Brasil;2019;Total;19 anos ou mais;1,70;18,00
+1;Brasil;2019;Total;Total;;100,00
+1;Brasil;2019;Total;até os 13 anos;2,90;8,50
+1;Brasil;2022;Homens;14 anos;4,90;7,00
+1;Brasil;2022;Homens;15 anos;3,30;12,00
+1;Brasil;2022;Homens;16 anos;3,10;14,80
+1;Brasil;2022;Homens;17 anos;3,00;19,60
+1;Brasil;2022;Homens;18 anos;2,50;20,60
+1;Brasil;2022;Homens;19 anos ou mais;2,60;18,70
+1;Brasil;2022;Homens;Total;;100,00
+1;Brasil;2022;Homens;até os 13 anos;4,50;7,40
+1;Brasil;2022;Mulheres;14 anos;5,40;8,50
+1;Brasil;2022;Mulheres;15 anos;3,80;13,60
+1;Brasil;2022;Mulheres;16 anos;3,40;16,20
+1;Brasil;2022;Mulheres;17 anos;3,00;18,60
+1;Brasil;2022;Mulheres;18 anos;3,50;17,40
+1;Brasil;2022;Mulheres;19 anos ou mais;3,50;18,80
+1;Brasil;2022;Mulheres;Total;;100,00
+1;Brasil;2022;Mulheres;até os 13 anos;5,40;6,90
+1;Brasil;2022;Total;14 anos;3,50;7,60
+1;Brasil;2022;Total;15 anos;2,50;12,70
+1;Brasil;2022;Total;16 anos;2,50;15,40
+1;Brasil;2022;Total;17 anos;2,00;19,20
+1;Brasil;2022;Total;18 anos;2,00;19,30
+1;Brasil;2022;Total;19 anos ou mais;2,10;18,70
+1;Brasil;2022;Total;Total;;100,00
+1;Brasil;2022;Total;até os 13 anos;3,60;7,20
+1;Brasil;2023;Homens;14 anos;4,70;5,90
+1;Brasil;2023;Homens;15 anos;3,50;12,10
+1;Brasil;2023;Homens;16 anos;3,00;15,30
+1;Brasil;2023;Homens;17 anos;2,90;19,80
+1;Brasil;2023;Homens;18 anos;2,40;22,50
+1;Brasil;2023;Homens;19 anos ou mais;2,70;18,30
+1;Brasil;2023;Homens;Total;;100,00
+1;Brasil;2023;Homens;até os 13 anos;4,60;6,10
+1;Brasil;2023;Mulheres;14 anos;5,60;7,60
+1;Brasil;2023;Mulheres;15 anos;4,10;13,20
+1;Brasil;2023;Mulheres;16 anos;3,50;17,00
+1;Brasil;2023;Mulheres;17 anos;3,10;19,30
+1;Brasil;2023;Mulheres;18 anos;3,00;19,10
+1;Brasil;2023;Mulheres;19 anos ou mais;3,30;17,30
+1;Brasil;2023;Mulheres;Total;;100,00
+1;Brasil;2023;Mulheres;até os 13 anos;5,20;6,50
+1;Brasil;2023;Total;14 anos;3,90;6,60
+1;Brasil;2023;Total;15 anos;2,70;12,60
+1;Brasil;2023;Total;16 anos;2,30;16,00
+1;Brasil;2023;Total;17 anos;2,10;19,60
+1;Brasil;2023;Total;18 anos;1,80;21,10
+1;Brasil;2023;Total;19 anos ou mais;2,10;17,90
+1;Brasil;2023;Total;Total;;100,00
+1;Brasil;2023;Total;até os 13 anos;3,60;6,20
+1;Brasil;2024;Homens;14 anos;5,00;5,90
+1;Brasil;2024;Homens;15 anos;3,70;11,80
+1;Brasil;2024;Homens;16 anos;3,10;16,30
+1;Brasil;2024;Homens;17 anos;2,70;20,60
+1;Brasil;2024;Homens;18 anos;2,50;21,90
+1;Brasil;2024;Homens;19 anos ou mais;3,20;16,70
+1;Brasil;2024;Homens;Total;;100,00
+1;Brasil;2024;Homens;até os 13 anos;4,60;6,80
+1;Brasil;2024;Mulheres;14 anos;5,30;8,30
+1;Brasil;2024;Mulheres;15 anos;4,10;13,70
+1;Brasil;2024;Mulheres;16 anos;3,30;16,90
+1;Brasil;2024;Mulheres;17 anos;3,00;19,20
+1;Brasil;2024;Mulheres;18 anos;3,30;19,00
+1;Brasil;2024;Mulheres;19 anos ou mais;3,20;16,90
+1;Brasil;2024;Mulheres;Total;;100,00
+1;Brasil;2024;Mulheres;até os 13 anos;5,10;6,10
+1;Brasil;2024;Total;14 anos;3,80;6,80
+1;Brasil;2024;Total;15 anos;2,80;12,60
+1;Brasil;2024;Total;16 anos;2,10;16,50
+1;Brasil;2024;Total;17 anos;2,00;20,00
+1;Brasil;2024;Total;18 anos;2,10;20,70
+1;Brasil;2024;Total;19 anos ou mais;2,50;16,80
+1;Brasil;2024;Total;Total;;100,00
+1;Brasil;2024;Total;até os 13 anos;3,50;6,50
+1;Brasil;2025;Homens;14 anos;5,30;6,80
+1;Brasil;2025;Homens;15 anos;3,70;11,80
+1;Brasil;2025;Homens;16 anos;3,10;18,30
+1;Brasil;2025;Homens;17 anos;2,70;20,20
+1;Brasil;2025;Homens;18 anos;3,10;19,00
+1;Brasil;2025;Homens;19 anos ou mais;3,40;15,70
+1;Brasil;2025;Homens;Total;;100,00
+1;Brasil;2025;Homens;até os 13 anos;4,60;8,20
+1;Brasil;2025;Mulheres;14 anos;5,00;8,70
+1;Brasil;2025;Mulheres;15 anos;3,80;16,00
+1;Brasil;2025;Mulheres;16 anos;3,50;18,80
+1;Brasil;2025;Mulheres;17 anos;3,20;19,70
+1;Brasil;2025;Mulheres;18 anos;3,80;15,50
+1;Brasil;2025;Mulheres;19 anos ou mais;4,10;14,80
+1;Brasil;2025;Mulheres;Total;;100,00
+1;Brasil;2025;Mulheres;até os 13 anos;5,80;6,50
+1;Brasil;2025;Total;14 anos;3,80;7,60
+1;Brasil;2025;Total;15 anos;2,80;13,50
+1;Brasil;2025;Total;16 anos;2,50;18,50
+1;Brasil;2025;Total;17 anos;2,20;20,00
+1;Brasil;2025;Total;18 anos;2,60;17,60
+1;Brasil;2025;Total;19 anos ou mais;2,80;15,30
+1;Brasil;2025;Total;Total;;100,00
+1;Brasil;2025;Total;até os 13 anos;3,90;7,50
+1;Norte;2019;Homens;14 anos;9,70;7,20
+1;Norte;2019;Homens;15 anos;8,50;10,70
+1;Norte;2019;Homens;16 anos;6,30;13,50
+1;Norte;2019;Homens;17 anos;5,90;14,00
+1;Norte;2019;Homens;18 anos;5,80;17,10
+1;Norte;2019;Homens;19 anos ou mais;3,90;27,10
+1;Norte;2019;Homens;Total;;100,00
+1;Norte;2019;Homens;até os 13 anos;7,40;10,50
+1;Norte;2019;Mulheres;14 anos;8,90;7,40
+1;Norte;2019;Mulheres;15 anos;7,30;11,90
+1;Norte;2019;Mulheres;16 anos;6,70;14,70
+1;Norte;2019;Mulheres;17 anos;6,00;16,60
+1;Norte;2019;Mulheres;18 anos;8,00;14,30
+1;Norte;2019;Mulheres;19 anos ou mais;4,90;26,50
+1;Norte;2019;Mulheres;Total;;100,00
+1;Norte;2019;Mulheres;até os 13 anos;9,20;8,70
+1;Norte;2019;Total;14 anos;6,50;7,30
+1;Norte;2019;Total;15 anos;5,50;11,20
+1;Norte;2019;Total;16 anos;4,50;14,00
+1;Norte;2019;Total;17 anos;4,00;15,20
+1;Norte;2019;Total;18 anos;4,50;15,80
+1;Norte;2019;Total;19 anos ou mais;3,30;26,80
+1;Norte;2019;Total;Total;;100,00
+1;Norte;2019;Total;até os 13 anos;6,30;9,70
+1;Norte;2022;Homens;14 anos;10,90;6,00
+1;Norte;2022;Homens;15 anos;9,10;10,40
+1;Norte;2022;Homens;16 anos;7,70;11,50
+1;Norte;2022;Homens;17 anos;6,40;17,30
+1;Norte;2022;Homens;18 anos;6,30;19,10
+1;Norte;2022;Homens;19 anos ou mais;5,70;26,40
+1;Norte;2022;Homens;Total;;100,00
+1;Norte;2022;Homens;até os 13 anos;9,90;9,20
+1;Norte;2022;Mulheres;14 anos;12,50;5,90
+1;Norte;2022;Mulheres;15 anos;11,00;13,20
+1;Norte;2022;Mulheres;16 anos;8,00;14,00
+1;Norte;2022;Mulheres;17 anos;7,40;17,30
+1;Norte;2022;Mulheres;18 anos;9,20;16,40
+1;Norte;2022;Mulheres;19 anos ou mais;6,70;24,50
+1;Norte;2022;Mulheres;Total;;100,00
+1;Norte;2022;Mulheres;até os 13 anos;11,40;8,60
+1;Norte;2022;Total;14 anos;8,10;6,00
+1;Norte;2022;Total;15 anos;7,50;11,60
+1;Norte;2022;Total;16 anos;5,70;12,60
+1;Norte;2022;Total;17 anos;5,00;17,30
+1;Norte;2022;Total;18 anos;5,00;18,00
+1;Norte;2022;Total;19 anos ou mais;4,10;25,60
+1;Norte;2022;Total;Total;;100,00
+1;Norte;2022;Total;até os 13 anos;8,50;9,00
+1;Norte;2023;Homens;14 anos;11,80;6,10
+1;Norte;2023;Homens;15 anos;7,80;11,00
+1;Norte;2023;Homens;16 anos;8,90;12,70
+1;Norte;2023;Homens;17 anos;6,30;16,70
+1;Norte;2023;Homens;18 anos;5,60;21,70
+1;Norte;2023;Homens;19 anos ou mais;5,80;24,50
+1;Norte;2023;Homens;Total;;100,00
+1;Norte;2023;Homens;até os 13 anos;9,90;7,30
+1;Norte;2023;Mulheres;14 anos;10,70;8,70
+1;Norte;2023;Mulheres;15 anos;9,10;15,00
+1;Norte;2023;Mulheres;16 anos;8,70;13,40
+1;Norte;2023;Mulheres;17 anos;8,60;14,80
+1;Norte;2023;Mulheres;18 anos;8,00;16,20
+1;Norte;2023;Mulheres;19 anos ou mais;5,90;24,60
+1;Norte;2023;Mulheres;Total;;100,00
+1;Norte;2023;Mulheres;até os 13 anos;13,40;7,50
+1;Norte;2023;Total;14 anos;8,30;7,20
+1;Norte;2023;Total;15 anos;5,70;12,70
+1;Norte;2023;Total;16 anos;6,20;13,00
+1;Norte;2023;Total;17 anos;4,90;15,90
+1;Norte;2023;Total;18 anos;4,60;19,30
+1;Norte;2023;Total;19 anos ou mais;4,50;24,50
+1;Norte;2023;Total;Total;;100,00
+1;Norte;2023;Total;até os 13 anos;8,70;7,40
+1;Norte;2024;Homens;14 anos;15,00;4,80
+1;Norte;2024;Homens;15 anos;8,70;11,90
+1;Norte;2024;Homens;16 anos;8,10;15,40
+1;Norte;2024;Homens;17 anos;6,90;17,30
+1;Norte;2024;Homens;18 anos;5,80;23,20
+1;Norte;2024;Homens;19 anos ou mais;6,10;21,10
+1;Norte;2024;Homens;Total;;100,00
+1;Norte;2024;Homens;até os 13 anos;11,40;6,40
+1;Norte;2024;Mulheres;14 anos;10,50;9,20
+1;Norte;2024;Mulheres;15 anos;9,30;14,00
+1;Norte;2024;Mulheres;16 anos;9,30;13,10
+1;Norte;2024;Mulheres;17 anos;7,40;17,10
+1;Norte;2024;Mulheres;18 anos;6,50;19,50
+1;Norte;2024;Mulheres;19 anos ou mais;6,20;21,50
+1;Norte;2024;Mulheres;Total;;100,00
+1;Norte;2024;Mulheres;até os 13 anos;13,80;5,70
+1;Norte;2024;Total;14 anos;9,80;6,70
+1;Norte;2024;Total;15 anos;6,80;12,80
+1;Norte;2024;Total;16 anos;6,20;14,40
+1;Norte;2024;Total;17 anos;4,90;17,20
+1;Norte;2024;Total;18 anos;4,80;21,60
+1;Norte;2024;Total;19 anos ou mais;4,40;21,20
+1;Norte;2024;Total;Total;;100,00
+1;Norte;2024;Total;até os 13 anos;9,50;6,10
+1;Norte;2025;Homens;14 anos;13,00;6,80
+1;Norte;2025;Homens;15 anos;8,70;11,30
+1;Norte;2025;Homens;16 anos;7,50;16,00
+1;Norte;2025;Homens;17 anos;7,60;17,30
+1;Norte;2025;Homens;18 anos;6,70;19,40
+1;Norte;2025;Homens;19 anos ou mais;7,40;19,10
+1;Norte;2025;Homens;Total;;100,00
+1;Norte;2025;Homens;até os 13 anos;9,20;10,00
+1;Norte;2025;Mulheres;14 anos;13,30;9,00
+1;Norte;2025;Mulheres;15 anos;8,80;16,80
+1;Norte;2025;Mulheres;16 anos;9,60;15,10
+1;Norte;2025;Mulheres;17 anos;8,70;16,10
+1;Norte;2025;Mulheres;18 anos;9,00;15,90
+1;Norte;2025;Mulheres;19 anos ou mais;8,70;17,40
+1;Norte;2025;Mulheres;Total;;100,00
+1;Norte;2025;Mulheres;até os 13 anos;12,20;9,80
+1;Norte;2025;Total;14 anos;9,70;7,80
+1;Norte;2025;Total;15 anos;6,90;13,60
+1;Norte;2025;Total;16 anos;6,40;15,60
+1;Norte;2025;Total;17 anos;6,40;16,80
+1;Norte;2025;Total;18 anos;6,00;17,90
+1;Norte;2025;Total;19 anos ou mais;5,60;18,30
+1;Norte;2025;Total;Total;;100,00
+1;Norte;2025;Total;até os 13 anos;7,50;9,90
+2;Nordeste;2019;Homens;14 anos;5,40;6,60
+2;Nordeste;2019;Homens;15 anos;3,90;12,70
+2;Nordeste;2019;Homens;16 anos;3,50;14,90
+2;Nordeste;2019;Homens;17 anos;3,50;16,30
+2;Nordeste;2019;Homens;18 anos;3,60;17,20
+2;Nordeste;2019;Homens;19 anos ou mais;2,80;22,40
+2;Nordeste;2019;Homens;Total;;100,00
+2;Nordeste;2019;Homens;até os 13 anos;5,50;10,00
+2;Nordeste;2019;Mulheres;14 anos;5,60;8,40
+2;Nordeste;2019;Mulheres;15 anos;4,30;15,50
+2;Nordeste;2019;Mulheres;16 anos;4,30;14,80
+2;Nordeste;2019;Mulheres;17 anos;4,50;16,50
+2;Nordeste;2019;Mulheres;18 anos;4,20;15,00
+2;Nordeste;2019;Mulheres;19 anos ou mais;3,60;22,30
+2;Nordeste;2019;Mulheres;Total;;100,00
+2;Nordeste;2019;Mulheres;até os 13 anos;5,90;7,60
+2;Nordeste;2019;Total;14 anos;4,00;7,40
+2;Nordeste;2019;Total;15 anos;3,00;13,90
+2;Nordeste;2019;Total;16 anos;2,80;14,80
+2;Nordeste;2019;Total;17 anos;2,80;16,40
+2;Nordeste;2019;Total;18 anos;2,70;16,20
+2;Nordeste;2019;Total;19 anos ou mais;2,30;22,30
+2;Nordeste;2019;Total;Total;;100,00
+2;Nordeste;2019;Total;até os 13 anos;4,40;9,00
+2;Nordeste;2022;Homens;14 anos;8,10;5,90
+2;Nordeste;2022;Homens;15 anos;5,20;11,80
+2;Nordeste;2022;Homens;16 anos;5,00;12,20
+2;Nordeste;2022;Homens;17 anos;4,20;17,50
+2;Nordeste;2022;Homens;18 anos;4,50;21,10
+2;Nordeste;2022;Homens;19 anos ou mais;3,80;23,60
+2;Nordeste;2022;Homens;Total;;100,00
+2;Nordeste;2022;Homens;até os 13 anos;6,50;7,80
+2;Nordeste;2022;Mulheres;14 anos;6,20;8,00
+2;Nordeste;2022;Mulheres;15 anos;5,20;12,80
+2;Nordeste;2022;Mulheres;16 anos;5,40;14,70
+2;Nordeste;2022;Mulheres;17 anos;5,00;17,70
+2;Nordeste;2022;Mulheres;18 anos;5,10;17,70
+2;Nordeste;2022;Mulheres;19 anos ou mais;4,60;20,80
+2;Nordeste;2022;Mulheres;Total;;100,00
+2;Nordeste;2022;Mulheres;até os 13 anos;8,10;8,30
+2;Nordeste;2022;Total;14 anos;5,20;6,80
+2;Nordeste;2022;Total;15 anos;3,80;12,20
+2;Nordeste;2022;Total;16 anos;4,10;13,30
+2;Nordeste;2022;Total;17 anos;3,00;17,60
+2;Nordeste;2022;Total;18 anos;3,40;19,60
+2;Nordeste;2022;Total;19 anos ou mais;3,10;22,40
+2;Nordeste;2022;Total;Total;;100,00
+2;Nordeste;2022;Total;até os 13 anos;5,30;8,00
+2;Nordeste;2023;Homens;14 anos;8,20;5,50
+2;Nordeste;2023;Homens;15 anos;5,80;11,80
+2;Nordeste;2023;Homens;16 anos;4,70;13,80
+2;Nordeste;2023;Homens;17 anos;4,60;18,40
+2;Nordeste;2023;Homens;18 anos;3,80;21,60
+2;Nordeste;2023;Homens;19 anos ou mais;4,00;22,30
+2;Nordeste;2023;Homens;Total;;100,00
+2;Nordeste;2023;Homens;até os 13 anos;7,70;6,70
+2;Nordeste;2023;Mulheres;14 anos;7,30;7,60
+2;Nordeste;2023;Mulheres;15 anos;5,70;12,10
+2;Nordeste;2023;Mulheres;16 anos;5,40;15,10
+2;Nordeste;2023;Mulheres;17 anos;5,00;18,30
+2;Nordeste;2023;Mulheres;18 anos;4,40;18,20
+2;Nordeste;2023;Mulheres;19 anos ou mais;4,50;20,70
+2;Nordeste;2023;Mulheres;Total;;100,00
+2;Nordeste;2023;Mulheres;até os 13 anos;7,80;8,10
+2;Nordeste;2023;Total;14 anos;5,80;6,40
+2;Nordeste;2023;Total;15 anos;4,30;11,90
+2;Nordeste;2023;Total;16 anos;3,90;14,30
+2;Nordeste;2023;Total;17 anos;3,20;18,40
+2;Nordeste;2023;Total;18 anos;3,00;20,10
+2;Nordeste;2023;Total;19 anos ou mais;3,10;21,60
+2;Nordeste;2023;Total;Total;;100,00
+2;Nordeste;2023;Total;até os 13 anos;5,80;7,30
+2;Nordeste;2024;Homens;14 anos;8,60;5,90
+2;Nordeste;2024;Homens;15 anos;5,90;11,90
+2;Nordeste;2024;Homens;16 anos;4,90;13,10
+2;Nordeste;2024;Homens;17 anos;4,50;18,00
+2;Nordeste;2024;Homens;18 anos;3,80;21,40
+2;Nordeste;2024;Homens;19 anos ou mais;4,10;21,30
+2;Nordeste;2024;Homens;Total;;100,00
+2;Nordeste;2024;Homens;até os 13 anos;7,10;8,40
+2;Nordeste;2024;Mulheres;14 anos;9,00;7,40
+2;Nordeste;2024;Mulheres;15 anos;5,90;13,70
+2;Nordeste;2024;Mulheres;16 anos;5,90;15,10
+2;Nordeste;2024;Mulheres;17 anos;5,40;16,90
+2;Nordeste;2024;Mulheres;18 anos;4,70;18,80
+2;Nordeste;2024;Mulheres;19 anos ou mais;5,00;21,00
+2;Nordeste;2024;Mulheres;Total;;100,00
+2;Nordeste;2024;Mulheres;até os 13 anos;8,20;7,20
+2;Nordeste;2024;Total;14 anos;6,70;6,50
+2;Nordeste;2024;Total;15 anos;4,40;12,70
+2;Nordeste;2024;Total;16 anos;3,80;13,90
+2;Nordeste;2024;Total;17 anos;3,60;17,50
+2;Nordeste;2024;Total;18 anos;3,10;20,30
+2;Nordeste;2024;Total;19 anos ou mais;3,30;21,20
+2;Nordeste;2024;Total;Total;;100,00
+2;Nordeste;2024;Total;até os 13 anos;5,60;7,90
+2;Nordeste;2025;Homens;14 anos;8,10;5,70
+2;Nordeste;2025;Homens;15 anos;5,80;11,60
+2;Nordeste;2025;Homens;16 anos;4,90;14,60
+2;Nordeste;2025;Homens;17 anos;4,50;17,20
+2;Nordeste;2025;Homens;18 anos;4,50;19,90
+2;Nordeste;2025;Homens;19 anos ou mais;4,50;21,50
+2;Nordeste;2025;Homens;Total;;100,00
+2;Nordeste;2025;Homens;até os 13 anos;6,50;9,60
+2;Nordeste;2025;Mulheres;14 anos;7,50;8,50
+2;Nordeste;2025;Mulheres;15 anos;5,50;16,40
+2;Nordeste;2025;Mulheres;16 anos;5,50;17,20
+2;Nordeste;2025;Mulheres;17 anos;5,50;17,70
+2;Nordeste;2025;Mulheres;18 anos;5,70;15,70
+2;Nordeste;2025;Mulheres;19 anos ou mais;5,90;17,50
+2;Nordeste;2025;Mulheres;Total;;100,00
+2;Nordeste;2025;Mulheres;até os 13 anos;8,90;7,00
+2;Nordeste;2025;Total;14 anos;5,50;6,90
+2;Nordeste;2025;Total;15 anos;4,10;13,60
+2;Nordeste;2025;Total;16 anos;3,80;15,70
+2;Nordeste;2025;Total;17 anos;3,60;17,40
+2;Nordeste;2025;Total;18 anos;3,80;18,10
+2;Nordeste;2025;Total;19 anos ou mais;3,90;19,80
+2;Nordeste;2025;Total;Total;;100,00
+2;Nordeste;2025;Total;até os 13 anos;5,40;8,50
+3;Sudeste;2019;Homens;14 anos;8,70;8,60
+3;Sudeste;2019;Homens;15 anos;5,80;14,90
+3;Sudeste;2019;Homens;16 anos;5,00;21,60
+3;Sudeste;2019;Homens;17 anos;5,00;18,90
+3;Sudeste;2019;Homens;18 anos;5,60;15,10
+3;Sudeste;2019;Homens;19 anos ou mais;6,60;12,00
+3;Sudeste;2019;Homens;Total;;100,00
+3;Sudeste;2019;Homens;até os 13 anos;7,20;8,90
+3;Sudeste;2019;Mulheres;14 anos;8,00;9,60
+3;Sudeste;2019;Mulheres;15 anos;7,30;15,10
+3;Sudeste;2019;Mulheres;16 anos;5,60;21,60
+3;Sudeste;2019;Mulheres;17 anos;6,30;17,40
+3;Sudeste;2019;Mulheres;18 anos;6,80;13,60
+3;Sudeste;2019;Mulheres;19 anos ou mais;7,50;14,10
+3;Sudeste;2019;Mulheres;Total;;100,00
+3;Sudeste;2019;Mulheres;até os 13 anos;9,40;8,60
+3;Sudeste;2019;Total;14 anos;5,90;9,00
+3;Sudeste;2019;Total;15 anos;4,70;15,00
+3;Sudeste;2019;Total;16 anos;3,90;21,60
+3;Sudeste;2019;Total;17 anos;4,20;18,30
+3;Sudeste;2019;Total;18 anos;4,70;14,50
+3;Sudeste;2019;Total;19 anos ou mais;4,90;12,90
+3;Sudeste;2019;Total;Total;;100,00
+3;Sudeste;2019;Total;até os 13 anos;6,10;8,70
+3;Sudeste;2022;Homens;14 anos;9,70;8,40
+3;Sudeste;2022;Homens;15 anos;6,80;12,50
+3;Sudeste;2022;Homens;16 anos;6,50;15,60
+3;Sudeste;2022;Homens;17 anos;6,20;19,70
+3;Sudeste;2022;Homens;18 anos;5,00;20,70
+3;Sudeste;2022;Homens;19 anos ou mais;6,00;15,70
+3;Sudeste;2022;Homens;Total;;100,00
+3;Sudeste;2022;Homens;até os 13 anos;9,30;7,20
+3;Sudeste;2022;Mulheres;14 anos;12,90;9,80
+3;Sudeste;2022;Mulheres;15 anos;8,20;13,70
+3;Sudeste;2022;Mulheres;16 anos;7,80;18,30
+3;Sudeste;2022;Mulheres;17 anos;6,90;18,70
+3;Sudeste;2022;Mulheres;18 anos;7,40;18,50
+3;Sudeste;2022;Mulheres;19 anos ou mais;8,50;16,20
+3;Sudeste;2022;Mulheres;Total;;100,00
+3;Sudeste;2022;Mulheres;até os 13 anos;14,40;4,80
+3;Sudeste;2022;Total;14 anos;8,20;9,00
+3;Sudeste;2022;Total;15 anos;5,20;13,00
+3;Sudeste;2022;Total;16 anos;5,40;16,70
+3;Sudeste;2022;Total;17 anos;4,50;19,30
+3;Sudeste;2022;Total;18 anos;4,20;19,80
+3;Sudeste;2022;Total;19 anos ou mais;4,90;15,90
+3;Sudeste;2022;Total;Total;;100,00
+3;Sudeste;2022;Total;até os 13 anos;8,20;6,30
+3;Sudeste;2023;Homens;14 anos;9,60;6,40
+3;Sudeste;2023;Homens;15 anos;6,90;12,40
+3;Sudeste;2023;Homens;16 anos;6,30;15,80
+3;Sudeste;2023;Homens;17 anos;6,00;21,80
+3;Sudeste;2023;Homens;18 anos;5,10;23,40
+3;Sudeste;2023;Homens;19 anos ou mais;6,50;14,70
+3;Sudeste;2023;Homens;Total;;100,00
+3;Sudeste;2023;Homens;até os 13 anos;9,70;5,50
+3;Sudeste;2023;Mulheres;14 anos;13,40;7,70
+3;Sudeste;2023;Mulheres;15 anos;9,30;14,20
+3;Sudeste;2023;Mulheres;16 anos;8,20;18,80
+3;Sudeste;2023;Mulheres;17 anos;6,90;20,30
+3;Sudeste;2023;Mulheres;18 anos;6,30;21,50
+3;Sudeste;2023;Mulheres;19 anos ou mais;8,90;12,30
+3;Sudeste;2023;Mulheres;Total;;100,00
+3;Sudeste;2023;Mulheres;até os 13 anos;13,10;5,10
+3;Sudeste;2023;Total;14 anos;8,80;6,90
+3;Sudeste;2023;Total;15 anos;5,50;13,10
+3;Sudeste;2023;Total;16 anos;5,20;17,00
+3;Sudeste;2023;Total;17 anos;4,90;21,20
+3;Sudeste;2023;Total;18 anos;4,00;22,60
+3;Sudeste;2023;Total;19 anos ou mais;5,30;13,70
+3;Sudeste;2023;Total;Total;;100,00
+3;Sudeste;2023;Total;até os 13 anos;7,80;5,30
+3;Sudeste;2024;Homens;14 anos;10,80;6,00
+3;Sudeste;2024;Homens;15 anos;6,50;12,10
+3;Sudeste;2024;Homens;16 anos;6,30;18,30
+3;Sudeste;2024;Homens;17 anos;5,10;21,70
+3;Sudeste;2024;Homens;18 anos;5,70;22,10
+3;Sudeste;2024;Homens;19 anos ou mais;7,30;13,90
+3;Sudeste;2024;Homens;Total;;100,00
+3;Sudeste;2024;Homens;até os 13 anos;10,20;5,90
+3;Sudeste;2024;Mulheres;14 anos;12,10;9,00
+3;Sudeste;2024;Mulheres;15 anos;9,50;12,80
+3;Sudeste;2024;Mulheres;16 anos;7,00;18,60
+3;Sudeste;2024;Mulheres;17 anos;6,00;20,30
+3;Sudeste;2024;Mulheres;18 anos;7,20;20,10
+3;Sudeste;2024;Mulheres;19 anos ou mais;8,80;13,60
+3;Sudeste;2024;Mulheres;Total;;100,00
+3;Sudeste;2024;Mulheres;até os 13 anos;11,30;5,60
+3;Sudeste;2024;Total;14 anos;8,10;7,20
+3;Sudeste;2024;Total;15 anos;5,50;12,40
+3;Sudeste;2024;Total;16 anos;4,70;18,40
+3;Sudeste;2024;Total;17 anos;4,10;21,10
+3;Sudeste;2024;Total;18 anos;4,70;21,30
+3;Sudeste;2024;Total;19 anos ou mais;6,20;13,80
+3;Sudeste;2024;Total;Total;;100,00
+3;Sudeste;2024;Total;até os 13 anos;8,30;5,80
+3;Sudeste;2025;Homens;14 anos;11,90;7,40
+3;Sudeste;2025;Homens;15 anos;8,10;12,20
+3;Sudeste;2025;Homens;16 anos;5,50;21,60
+3;Sudeste;2025;Homens;17 anos;5,80;22,00
+3;Sudeste;2025;Homens;18 anos;6,90;17,00
+3;Sudeste;2025;Homens;19 anos ou mais;7,40;11,70
+3;Sudeste;2025;Homens;Total;;100,00
+3;Sudeste;2025;Homens;até os 13 anos;10,60;8,20
+3;Sudeste;2025;Mulheres;14 anos;11,30;9,40
+3;Sudeste;2025;Mulheres;15 anos;8,90;15,90
+3;Sudeste;2025;Mulheres;16 anos;7,20;19,90
+3;Sudeste;2025;Mulheres;17 anos;6,80;22,90
+3;Sudeste;2025;Mulheres;18 anos;8,80;14,80
+3;Sudeste;2025;Mulheres;19 anos ou mais;9,50;12,00
+3;Sudeste;2025;Mulheres;Total;;100,00
+3;Sudeste;2025;Mulheres;até os 13 anos;13,70;5,20
+3;Sudeste;2025;Total;14 anos;8,90;8,10
+3;Sudeste;2025;Total;15 anos;5,90;13,60
+3;Sudeste;2025;Total;16 anos;4,50;20,90
+3;Sudeste;2025;Total;17 anos;4,90;22,30
+3;Sudeste;2025;Total;18 anos;5,50;16,10
+3;Sudeste;2025;Total;19 anos ou mais;5,80;11,80
+3;Sudeste;2025;Total;Total;;100,00
+3;Sudeste;2025;Total;até os 13 anos;9,00;7,00
+4;Sul;2019;Homens;14 anos;7,40;9,20
+4;Sul;2019;Homens;15 anos;6,10;16,70
+4;Sul;2019;Homens;16 anos;5,50;17,50
+4;Sul;2019;Homens;17 anos;4,30;20,60
+4;Sul;2019;Homens;18 anos;5,10;17,70
+4;Sul;2019;Homens;19 anos ou mais;7,00;10,70
+4;Sul;2019;Homens;Total;;100,00
+4;Sul;2019;Homens;até os 13 anos;7,90;7,70
+4;Sul;2019;Mulheres;14 anos;9,10;11,10
+4;Sul;2019;Mulheres;15 anos;6,60;16,20
+4;Sul;2019;Mulheres;16 anos;6,10;21,90
+4;Sul;2019;Mulheres;17 anos;5,60;20,30
+4;Sul;2019;Mulheres;18 anos;7,30;12,10
+4;Sul;2019;Mulheres;19 anos ou mais;7,80;12,10
+4;Sul;2019;Mulheres;Total;;100,00
+4;Sul;2019;Mulheres;até os 13 anos;10,00;6,40
+4;Sul;2019;Total;14 anos;5,90;10,00
+4;Sul;2019;Total;15 anos;4,70;16,50
+4;Sul;2019;Total;16 anos;4,40;19,30
+4;Sul;2019;Total;17 anos;3,50;20,40
+4;Sul;2019;Total;18 anos;4,40;15,40
+4;Sul;2019;Total;19 anos ou mais;5,90;11,30
+4;Sul;2019;Total;Total;;100,00
+4;Sul;2019;Total;até os 13 anos;6,60;7,20
+4;Sul;2022;Homens;14 anos;10,20;7,10
+4;Sul;2022;Homens;15 anos;7,60;12,60
+4;Sul;2022;Homens;16 anos;5,70;19,10
+4;Sul;2022;Homens;17 anos;5,00;24,80
+4;Sul;2022;Homens;18 anos;5,80;20,10
+4;Sul;2022;Homens;19 anos ou mais;7,50;10,00
+4;Sul;2022;Homens;Total;;100,00
+4;Sul;2022;Homens;até os 13 anos;11,50;6,20
+4;Sul;2022;Mulheres;14 anos;10,00;9,80
+4;Sul;2022;Mulheres;15 anos;7,60;15,40
+4;Sul;2022;Mulheres;16 anos;8,20;16,70
+4;Sul;2022;Mulheres;17 anos;6,30;20,40
+4;Sul;2022;Mulheres;18 anos;7,20;15,60
+4;Sul;2022;Mulheres;19 anos ou mais;8,00;14,40
+4;Sul;2022;Mulheres;Total;;100,00
+4;Sul;2022;Mulheres;até os 13 anos;12,70;7,60
+4;Sul;2022;Total;14 anos;7,50;8,20
+4;Sul;2022;Total;15 anos;5,50;13,70
+4;Sul;2022;Total;16 anos;5,00;18,10
+4;Sul;2022;Total;17 anos;4,10;23,00
+4;Sul;2022;Total;18 anos;5,00;18,30
+4;Sul;2022;Total;19 anos ou mais;5,90;11,80
+4;Sul;2022;Total;Total;;100,00
+4;Sul;2022;Total;até os 13 anos;9,20;6,80
+4;Sul;2023;Homens;14 anos;11,50;6,10
+4;Sul;2023;Homens;15 anos;8,70;14,30
+4;Sul;2023;Homens;16 anos;6,00;17,90
+4;Sul;2023;Homens;17 anos;5,50;21,10
+4;Sul;2023;Homens;18 anos;5,90;21,30
+4;Sul;2023;Homens;19 anos ou mais;8,90;13,40
+4;Sul;2023;Homens;Total;;100,00
+4;Sul;2023;Homens;até os 13 anos;10,80;5,80
+4;Sul;2023;Mulheres;14 anos;12,10;6,90
+4;Sul;2023;Mulheres;15 anos;8,70;12,30
+4;Sul;2023;Mulheres;16 anos;7,10;19,70
+4;Sul;2023;Mulheres;17 anos;6,40;22,10
+4;Sul;2023;Mulheres;18 anos;7,20;19,30
+4;Sul;2023;Mulheres;19 anos ou mais;9,30;14,40
+4;Sul;2023;Mulheres;Total;;100,00
+4;Sul;2023;Mulheres;até os 13 anos;15,20;5,30
+4;Sul;2023;Total;14 anos;8,90;6,50
+4;Sul;2023;Total;15 anos;6,60;13,50
+4;Sul;2023;Total;16 anos;4,30;18,70
+4;Sul;2023;Total;17 anos;4,40;21,50
+4;Sul;2023;Total;18 anos;5,00;20,50
+4;Sul;2023;Total;19 anos ou mais;6,70;13,80
+4;Sul;2023;Total;Total;;100,00
+4;Sul;2023;Total;até os 13 anos;9,60;5,60
+4;Sul;2024;Homens;14 anos;9,80;6,30
+4;Sul;2024;Homens;15 anos;9,30;10,90
+4;Sul;2024;Homens;16 anos;5,50;18,00
+4;Sul;2024;Homens;17 anos;5,80;24,60
+4;Sul;2024;Homens;18 anos;5,50;22,70
+4;Sul;2024;Homens;19 anos ou mais;9,10;11,50
+4;Sul;2024;Homens;Total;;100,00
+4;Sul;2024;Homens;até os 13 anos;12,10;6,00
+4;Sul;2024;Mulheres;14 anos;14,50;8,80
+4;Sul;2024;Mulheres;15 anos;9,10;15,10
+4;Sul;2024;Mulheres;16 anos;7,50;20,00
+4;Sul;2024;Mulheres;17 anos;7,60;22,80
+4;Sul;2024;Mulheres;18 anos;7,30;17,10
+4;Sul;2024;Mulheres;19 anos ou mais;9,60;10,80
+4;Sul;2024;Mulheres;Total;;100,00
+4;Sul;2024;Mulheres;até os 13 anos;14,00;5,50
+4;Sul;2024;Total;14 anos;8,90;7,30
+4;Sul;2024;Total;15 anos;6,70;12,50
+4;Sul;2024;Total;16 anos;4,60;18,80
+4;Sul;2024;Total;17 anos;4,80;23,90
+4;Sul;2024;Total;18 anos;4,50;20,50
+4;Sul;2024;Total;19 anos ou mais;6,70;11,20
+4;Sul;2024;Total;Total;;100,00
+4;Sul;2024;Total;até os 13 anos;9,60;5,80
+4;Sul;2025;Homens;14 anos;11,20;8,10
+4;Sul;2025;Homens;15 anos;6,80;12,40
+4;Sul;2025;Homens;16 anos;6,60;20,40
+4;Sul;2025;Homens;17 anos;4,80;23,70
+4;Sul;2025;Homens;18 anos;5,80;20,50
+4;Sul;2025;Homens;19 anos ou mais;9,70;9,50
+4;Sul;2025;Homens;Total;;100,00
+4;Sul;2025;Homens;até os 13 anos;12,20;5,40
+4;Sul;2025;Mulheres;14 anos;12,60;8,00
+4;Sul;2025;Mulheres;15 anos;9,20;14,80
+4;Sul;2025;Mulheres;16 anos;7,30;22,30
+4;Sul;2025;Mulheres;17 anos;7,80;19,10
+4;Sul;2025;Mulheres;18 anos;7,90;16,20
+4;Sul;2025;Mulheres;19 anos ou mais;10,30;12,50
+4;Sul;2025;Mulheres;Total;;100,00
+4;Sul;2025;Mulheres;até os 13 anos;13,40;7,20
+4;Sul;2025;Total;14 anos;8,30;8,00
+4;Sul;2025;Total;15 anos;5,60;13,30
+4;Sul;2025;Total;16 anos;4,80;21,10
+4;Sul;2025;Total;17 anos;4,30;21,90
+4;Sul;2025;Total;18 anos;4,90;18,80
+4;Sul;2025;Total;19 anos ou mais;7,80;10,70
+4;Sul;2025;Total;Total;;100,00
+4;Sul;2025;Total;até os 13 anos;9,80;6,10
+5;Centro-Oeste;2019;Homens;14 anos;12,50;6,20
+5;Centro-Oeste;2019;Homens;15 anos;8,10;10,80
+5;Centro-Oeste;2019;Homens;16 anos;7,70;15,80
+5;Centro-Oeste;2019;Homens;17 anos;6,30;21,50
+5;Centro-Oeste;2019;Homens;18 anos;6,10;19,50
+5;Centro-Oeste;2019;Homens;19 anos ou mais;5,60;20,00
+5;Centro-Oeste;2019;Homens;Total;;100,00
+5;Centro-Oeste;2019;Homens;até os 13 anos;12,90;6,30
+5;Centro-Oeste;2019;Mulheres;14 anos;11,80;6,40
+5;Centro-Oeste;2019;Mulheres;15 anos;9,40;14,10
+5;Centro-Oeste;2019;Mulheres;16 anos;6,80;17,80
+5;Centro-Oeste;2019;Mulheres;17 anos;7,60;19,40
+5;Centro-Oeste;2019;Mulheres;18 anos;8,20;17,40
+5;Centro-Oeste;2019;Mulheres;19 anos ou mais;6,40;19,60
+5;Centro-Oeste;2019;Mulheres;Total;;100,00
+5;Centro-Oeste;2019;Mulheres;até os 13 anos;12,70;5,40
+5;Centro-Oeste;2019;Total;14 anos;9,20;6,30
+5;Centro-Oeste;2019;Total;15 anos;6,10;12,20
+5;Centro-Oeste;2019;Total;16 anos;5,40;16,60
+5;Centro-Oeste;2019;Total;17 anos;4,70;20,60
+5;Centro-Oeste;2019;Total;18 anos;5,00;18,60
+5;Centro-Oeste;2019;Total;19 anos ou mais;4,20;19,80
+5;Centro-Oeste;2019;Total;Total;;100,00
+5;Centro-Oeste;2019;Total;até os 13 anos;9,20;5,90
+5;Centro-Oeste;2022;Homens;14 anos;13,00;6,20
+5;Centro-Oeste;2022;Homens;15 anos;9,80;11,50
+5;Centro-Oeste;2022;Homens;16 anos;7,30;17,40
+5;Centro-Oeste;2022;Homens;17 anos;6,20;20,70
+5;Centro-Oeste;2022;Homens;18 anos;6,90;21,10
+5;Centro-Oeste;2022;Homens;19 anos ou mais;7,20;17,30
+5;Centro-Oeste;2022;Homens;Total;;100,00
+5;Centro-Oeste;2022;Homens;até os 13 anos;14,00;5,70
+5;Centro-Oeste;2022;Mulheres;14 anos;15,60;7,40
+5;Centro-Oeste;2022;Mulheres;15 anos;11,80;14,20
+5;Centro-Oeste;2022;Mulheres;16 anos;8,60;16,40
+5;Centro-Oeste;2022;Mulheres;17 anos;8,70;20,50
+5;Centro-Oeste;2022;Mulheres;18 anos;9,20;17,20
+5;Centro-Oeste;2022;Mulheres;19 anos ou mais;8,50;19,70
+5;Centro-Oeste;2022;Mulheres;Total;;100,00
+5;Centro-Oeste;2022;Mulheres;até os 13 anos;19,90;4,50
+5;Centro-Oeste;2022;Total;14 anos;10,00;6,70
+5;Centro-Oeste;2022;Total;15 anos;7,60;12,60
+5;Centro-Oeste;2022;Total;16 anos;5,60;17,00
+5;Centro-Oeste;2022;Total;17 anos;4,70;20,60
+5;Centro-Oeste;2022;Total;18 anos;5,70;19,60
+5;Centro-Oeste;2022;Total;19 anos ou mais;5,60;18,20
+5;Centro-Oeste;2022;Total;Total;;100,00
+5;Centro-Oeste;2022;Total;até os 13 anos;11,30;5,20
+5;Centro-Oeste;2023;Homens;14 anos;16,90;5,40
+5;Centro-Oeste;2023;Homens;15 anos;11,80;10,30
+5;Centro-Oeste;2023;Homens;16 anos;7,90;17,40
+5;Centro-Oeste;2023;Homens;17 anos;8,10;18,20
+5;Centro-Oeste;2023;Homens;18 anos;6,80;25,30
+5;Centro-Oeste;2023;Homens;19 anos ou mais;8,10;18,20
+5;Centro-Oeste;2023;Homens;Total;;100,00
+5;Centro-Oeste;2023;Homens;até os 13 anos;16,70;5,20
+5;Centro-Oeste;2023;Mulheres;14 anos;16,40;7,10
+5;Centro-Oeste;2023;Mulheres;15 anos;11,30;13,50
+5;Centro-Oeste;2023;Mulheres;16 anos;9,10;18,60
+5;Centro-Oeste;2023;Mulheres;17 anos;8,30;21,20
+5;Centro-Oeste;2023;Mulheres;18 anos;8,30;18,10
+5;Centro-Oeste;2023;Mulheres;19 anos ou mais;11,10;16,00
+5;Centro-Oeste;2023;Mulheres;Total;;100,00
+5;Centro-Oeste;2023;Mulheres;até os 13 anos;18,60;5,40
+5;Centro-Oeste;2023;Total;14 anos;11,40;6,10
+5;Centro-Oeste;2023;Total;15 anos;8,20;11,60
+5;Centro-Oeste;2023;Total;16 anos;6,30;17,90
+5;Centro-Oeste;2023;Total;17 anos;5,60;19,40
+5;Centro-Oeste;2023;Total;18 anos;5,50;22,40
+5;Centro-Oeste;2023;Total;19 anos ou mais;7,10;17,30
+5;Centro-Oeste;2023;Total;Total;;100,00
+5;Centro-Oeste;2023;Total;até os 13 anos;12,70;5,30
+5;Centro-Oeste;2024;Homens;14 anos;17,00;5,60
+5;Centro-Oeste;2024;Homens;15 anos;10,40;11,70
+5;Centro-Oeste;2024;Homens;16 anos;8,70;18,20
+5;Centro-Oeste;2024;Homens;17 anos;7,80;22,50
+5;Centro-Oeste;2024;Homens;18 anos;8,20;20,20
+5;Centro-Oeste;2024;Homens;19 anos ou mais;10,10;14,90
+5;Centro-Oeste;2024;Homens;Total;;100,00
+5;Centro-Oeste;2024;Homens;até os 13 anos;16,00;6,80
+5;Centro-Oeste;2024;Mulheres;14 anos;17,10;7,00
+5;Centro-Oeste;2024;Mulheres;15 anos;11,40;13,80
+5;Centro-Oeste;2024;Mulheres;16 anos;11,50;17,90
+5;Centro-Oeste;2024;Mulheres;17 anos;8,80;21,50
+5;Centro-Oeste;2024;Mulheres;18 anos;10,30;17,90
+5;Centro-Oeste;2024;Mulheres;19 anos ou mais;10,00;17,10
+5;Centro-Oeste;2024;Mulheres;Total;;100,00
+5;Centro-Oeste;2024;Mulheres;até os 13 anos;18,30;4,80
+5;Centro-Oeste;2024;Total;14 anos;13,20;6,20
+5;Centro-Oeste;2024;Total;15 anos;8,10;12,60
+5;Centro-Oeste;2024;Total;16 anos;7,00;18,10
+5;Centro-Oeste;2024;Total;17 anos;5,80;22,10
+5;Centro-Oeste;2024;Total;18 anos;6,30;19,30
+5;Centro-Oeste;2024;Total;19 anos ou mais;7,30;15,80
+5;Centro-Oeste;2024;Total;Total;;100,00
+5;Centro-Oeste;2024;Total;até os 13 anos;11,70;6,00
+5;Centro-Oeste;2025;Homens;14 anos;13,90;6,50
+5;Centro-Oeste;2025;Homens;15 anos;12,00;10,30
+5;Centro-Oeste;2025;Homens;16 anos;9,10;18,80
+5;Centro-Oeste;2025;Homens;17 anos;8,20;22,50
+5;Centro-Oeste;2025;Homens;18 anos;8,40;20,60
+5;Centro-Oeste;2025;Homens;19 anos ou mais;9,80;16,10
+5;Centro-Oeste;2025;Homens;Total;;100,00
+5;Centro-Oeste;2025;Homens;até os 13 anos;15,90;5,10
+5;Centro-Oeste;2025;Mulheres;14 anos;16,60;7,60
+5;Centro-Oeste;2025;Mulheres;15 anos;10,90;15,10
+5;Centro-Oeste;2025;Mulheres;16 anos;9,60;21,70
+5;Centro-Oeste;2025;Mulheres;17 anos;9,50;22,60
+5;Centro-Oeste;2025;Mulheres;18 anos;10,70;16,20
+5;Centro-Oeste;2025;Mulheres;19 anos ou mais;11,90;14,10
+5;Centro-Oeste;2025;Mulheres;Total;;100,00
+5;Centro-Oeste;2025;Mulheres;até os 13 anos;27,30;2,70
+5;Centro-Oeste;2025;Total;14 anos;10,50;6,90
+5;Centro-Oeste;2025;Total;15 anos;8,70;12,10
+5;Centro-Oeste;2025;Total;16 anos;7,10;19,90
+5;Centro-Oeste;2025;Total;17 anos;6,50;22,60
+5;Centro-Oeste;2025;Total;18 anos;6,80;18,90
+5;Centro-Oeste;2025;Total;19 anos ou mais;8,10;15,30
+5;Centro-Oeste;2025;Total;Total;;100,00
+5;Centro-Oeste;2025;Total;até os 13 anos;13,50;4,20

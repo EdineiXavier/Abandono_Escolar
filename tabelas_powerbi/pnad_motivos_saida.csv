@@ -1,0 +1,691 @@
+﻿CO_TERRITORIO;TERRITORIO;ANO;SEXO;MOTIVO;CV_%;VALOR
+1;Brasil;2019;Homens;Não tinha escola na localidade, vaga ou turno desejado;5,70;2,50
+1;Brasil;2019;Homens;Não tinha interesse em estudar;1,60;32,20
+1;Brasil;2019;Homens;Outros motivos;3,70;9,40
+1;Brasil;2019;Homens;Precisava trabalhar;1,10;51,40
+1;Brasil;2019;Homens;Problemas de saúde permanente;4,90;3,70
+1;Brasil;2019;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;15,30;0,70
+1;Brasil;2019;Homens;Total;;100,00
+1;Brasil;2019;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;5,80;3,80
+1;Brasil;2019;Mulheres;Não tinha interesse em estudar;2,20;23,70
+1;Brasil;2019;Mulheres;Outros motivos;4,20;9,50
+1;Brasil;2019;Mulheres;Por gravidez;2,20;24,30
+1;Brasil;2019;Mulheres;Precisava trabalhar;2,50;24,10
+1;Brasil;2019;Mulheres;Problemas de saúde permanente;7,30;2,90
+1;Brasil;2019;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,90;11,70
+1;Brasil;2019;Mulheres;Total;;100,00
+1;Brasil;2019;Total;Não tinha escola na localidade, vaga ou turno desejado;4,20;3,10
+1;Brasil;2019;Total;Não tinha interesse em estudar;1,50;28,60
+1;Brasil;2019;Total;Outros motivos;2,90;9,40
+1;Brasil;2019;Total;Por gravidez;2,20;10,20
+1;Brasil;2019;Total;Precisava trabalhar;1,10;39,90
+1;Brasil;2019;Total;Problemas de saúde permanente;4,10;3,40
+1;Brasil;2019;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,80;5,40
+1;Brasil;2019;Total;Total;;100,00
+1;Brasil;2022;Homens;Não tinha escola na localidade, vaga ou turno desejado;7,10;2,70
+1;Brasil;2022;Homens;Não tinha interesse em estudar;2,20;27,00
+1;Brasil;2022;Homens;Outros motivos;3,10;14,30
+1;Brasil;2022;Homens;Precisava trabalhar;1,30;51,40
+1;Brasil;2022;Homens;Problemas de saúde permanente;5,90;3,90
+1;Brasil;2022;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,60;0,60
+1;Brasil;2022;Homens;Total;;100,00
+1;Brasil;2022;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;6,60;3,90
+1;Brasil;2022;Mulheres;Não tinha interesse em estudar;2,90;21,50
+1;Brasil;2022;Mulheres;Outros motivos;4,20;15,00
+1;Brasil;2022;Mulheres;Por gravidez;3,00;22,20
+1;Brasil;2022;Mulheres;Precisava trabalhar;2,90;24,00
+1;Brasil;2022;Mulheres;Problemas de saúde permanente;8,20;3,20
+1;Brasil;2022;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;3,90;10,20
+1;Brasil;2022;Mulheres;Total;;100,00
+1;Brasil;2022;Total;Não tinha escola na localidade, vaga ou turno desejado;5,40;3,20
+1;Brasil;2022;Total;Não tinha interesse em estudar;1,70;24,80
+1;Brasil;2022;Total;Outros motivos;2,60;14,60
+1;Brasil;2022;Total;Por gravidez;3,20;9,20
+1;Brasil;2022;Total;Precisava trabalhar;1,30;40,10
+1;Brasil;2022;Total;Problemas de saúde permanente;5,00;3,60
+1;Brasil;2022;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,10;4,60
+1;Brasil;2022;Total;Total;;100,00
+1;Brasil;2023;Homens;Não tinha escola na localidade, vaga ou turno desejado;8,20;2,30
+1;Brasil;2023;Homens;Não tinha interesse em estudar;2,30;25,60
+1;Brasil;2023;Homens;Outros motivos;3,40;13,90
+1;Brasil;2023;Homens;Precisava trabalhar;1,30;53,10
+1;Brasil;2023;Homens;Problemas de saúde permanente;5,70;4,30
+1;Brasil;2023;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;13,30;0,80
+1;Brasil;2023;Homens;Total;;100,00
+1;Brasil;2023;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;7,30;3,40
+1;Brasil;2023;Mulheres;Não tinha interesse em estudar;3,60;20,80
+1;Brasil;2023;Mulheres;Outros motivos;3,90;14,40
+1;Brasil;2023;Mulheres;Por gravidez;2,90;22,90
+1;Brasil;2023;Mulheres;Precisava trabalhar;2,60;25,60
+1;Brasil;2023;Mulheres;Problemas de saúde permanente;7,30;3,50
+1;Brasil;2023;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,50;9,40
+1;Brasil;2023;Mulheres;Total;;100,00
+1;Brasil;2023;Total;Não tinha escola na localidade, vaga ou turno desejado;6,00;2,80
+1;Brasil;2023;Total;Não tinha interesse em estudar;2,10;23,60
+1;Brasil;2023;Total;Outros motivos;2,70;14,10
+1;Brasil;2023;Total;Por gravidez;3,00;9,50
+1;Brasil;2023;Total;Precisava trabalhar;1,30;41,70
+1;Brasil;2023;Total;Problemas de saúde permanente;4,90;4,00
+1;Brasil;2023;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,60;4,40
+1;Brasil;2023;Total;Total;;100,00
+1;Brasil;2024;Homens;Não tinha escola na localidade, vaga ou turno desejado;8,10;1,90
+1;Brasil;2024;Homens;Não tinha interesse em estudar;2,10;27,10
+1;Brasil;2024;Homens;Outros motivos;3,70;12,60
+1;Brasil;2024;Homens;Precisava trabalhar;1,30;53,40
+1;Brasil;2024;Homens;Problemas de saúde permanente;5,70;4,30
+1;Brasil;2024;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;13,30;0,80
+1;Brasil;2024;Homens;Total;;100,00
+1;Brasil;2024;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;7,40;3,30
+1;Brasil;2024;Mulheres;Não tinha interesse em estudar;2,90;22,50
+1;Brasil;2024;Mulheres;Outros motivos;3,90;13,60
+1;Brasil;2024;Mulheres;Por gravidez;2,90;23,10
+1;Brasil;2024;Mulheres;Precisava trabalhar;2,80;25,20
+1;Brasil;2024;Mulheres;Problemas de saúde permanente;9,10;3,40
+1;Brasil;2024;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,50;8,80
+1;Brasil;2024;Mulheres;Total;;100,00
+1;Brasil;2024;Total;Não tinha escola na localidade, vaga ou turno desejado;6,20;2,50
+1;Brasil;2024;Total;Não tinha interesse em estudar;1,80;25,30
+1;Brasil;2024;Total;Outros motivos;2,90;13,00
+1;Brasil;2024;Total;Por gravidez;3,00;9,30
+1;Brasil;2024;Total;Precisava trabalhar;1,30;42,00
+1;Brasil;2024;Total;Problemas de saúde permanente;5,00;3,90
+1;Brasil;2024;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,40;4,10
+1;Brasil;2024;Total;Total;;100,00
+1;Brasil;2025;Homens;Não tinha escola na localidade, vaga ou turno desejado;7,80;2,20
+1;Brasil;2025;Homens;Não tinha interesse em estudar;2,30;28,00
+1;Brasil;2025;Homens;Outros motivos;4,30;10,20
+1;Brasil;2025;Homens;Precisava trabalhar;1,30;54,20
+1;Brasil;2025;Homens;Problemas de saúde permanente;5,60;4,70
+1;Brasil;2025;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;15,40;0,70
+1;Brasil;2025;Homens;Total;;100,00
+1;Brasil;2025;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;7,60;3,50
+1;Brasil;2025;Mulheres;Não tinha interesse em estudar;3,10;21,90
+1;Brasil;2025;Mulheres;Outros motivos;4,80;10,90
+1;Brasil;2025;Mulheres;Por gravidez;2,60;24,70
+1;Brasil;2025;Mulheres;Precisava trabalhar;2,90;26,20
+1;Brasil;2025;Mulheres;Problemas de saúde permanente;7,60;4,10
+1;Brasil;2025;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;5,00;8,60
+1;Brasil;2025;Mulheres;Total;;100,00
+1;Brasil;2025;Total;Não tinha escola na localidade, vaga ou turno desejado;5,70;2,80
+1;Brasil;2025;Total;Não tinha interesse em estudar;1,90;25,60
+1;Brasil;2025;Total;Outros motivos;3,20;10,50
+1;Brasil;2025;Total;Por gravidez;2,80;9,90
+1;Brasil;2025;Total;Precisava trabalhar;1,30;43,00
+1;Brasil;2025;Total;Problemas de saúde permanente;4,50;4,40
+1;Brasil;2025;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;5,00;3,90
+1;Brasil;2025;Total;Total;;100,00
+1;Norte;2019;Homens;Não tinha escola na localidade, vaga ou turno desejado;11,50;5,80
+1;Norte;2019;Homens;Não tinha interesse em estudar;4,60;32,00
+1;Norte;2019;Homens;Outros motivos;9,20;8,20
+1;Norte;2019;Homens;Precisava trabalhar;3,10;49,40
+1;Norte;2019;Homens;Problemas de saúde permanente;11,90;3,50
+1;Norte;2019;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;26,30;1,10
+1;Norte;2019;Homens;Total;;100,00
+1;Norte;2019;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;11,00;6,80
+1;Norte;2019;Mulheres;Não tinha interesse em estudar;6,10;20,80
+1;Norte;2019;Mulheres;Outros motivos;9,50;10,20
+1;Norte;2019;Mulheres;Por gravidez;4,80;29,20
+1;Norte;2019;Mulheres;Precisava trabalhar;6,60;16,80
+1;Norte;2019;Mulheres;Problemas de saúde permanente;16,10;2,50
+1;Norte;2019;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;8,80;13,50
+1;Norte;2019;Mulheres;Total;;100,00
+1;Norte;2019;Total;Não tinha escola na localidade, vaga ou turno desejado;9,10;6,30
+1;Norte;2019;Total;Não tinha interesse em estudar;4,00;27,00
+1;Norte;2019;Total;Outros motivos;7,10;9,10
+1;Norte;2019;Total;Por gravidez;5,20;13,10
+1;Norte;2019;Total;Precisava trabalhar;3,00;34,80
+1;Norte;2019;Total;Problemas de saúde permanente;8,70;3,10
+1;Norte;2019;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;9,40;6,70
+1;Norte;2019;Total;Total;;100,00
+1;Norte;2022;Homens;Não tinha escola na localidade, vaga ou turno desejado;14,40;5,90
+1;Norte;2022;Homens;Não tinha interesse em estudar;4,70;27,50
+1;Norte;2022;Homens;Outros motivos;7,40;13,90
+1;Norte;2022;Homens;Precisava trabalhar;3,00;49,20
+1;Norte;2022;Homens;Problemas de saúde permanente;14,50;2,80
+1;Norte;2022;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;27,00;0,70
+1;Norte;2022;Homens;Total;;100,00
+1;Norte;2022;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;13,30;7,00
+1;Norte;2022;Mulheres;Não tinha interesse em estudar;7,50;19,10
+1;Norte;2022;Mulheres;Outros motivos;8,80;12,30
+1;Norte;2022;Mulheres;Por gravidez;5,90;26,80
+1;Norte;2022;Mulheres;Precisava trabalhar;9,30;16,20
+1;Norte;2022;Mulheres;Problemas de saúde permanente;16,10;2,50
+1;Norte;2022;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;8,10;16,00
+1;Norte;2022;Mulheres;Total;;100,00
+1;Norte;2022;Total;Não tinha escola na localidade, vaga ou turno desejado;11,40;6,40
+1;Norte;2022;Total;Não tinha interesse em estudar;4,20;23,90
+1;Norte;2022;Total;Outros motivos;5,70;13,20
+1;Norte;2022;Total;Por gravidez;6,60;11,60
+1;Norte;2022;Total;Precisava trabalhar;3,40;35,00
+1;Norte;2022;Total;Problemas de saúde permanente;10,70;2,70
+1;Norte;2022;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;8,20;7,30
+1;Norte;2022;Total;Total;;100,00
+1;Norte;2023;Homens;Não tinha escola na localidade, vaga ou turno desejado;16,40;6,50
+1;Norte;2023;Homens;Não tinha interesse em estudar;5,50;27,20
+1;Norte;2023;Homens;Outros motivos;8,00;11,70
+1;Norte;2023;Homens;Precisava trabalhar;3,70;49,40
+1;Norte;2023;Homens;Problemas de saúde permanente;13,70;4,40
+1;Norte;2023;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;30,10;0,90
+1;Norte;2023;Homens;Total;;100,00
+1;Norte;2023;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;13,50;7,80
+1;Norte;2023;Mulheres;Não tinha interesse em estudar;7,10;17,70
+1;Norte;2023;Mulheres;Outros motivos;8,80;12,20
+1;Norte;2023;Mulheres;Por gravidez;5,40;29,30
+1;Norte;2023;Mulheres;Precisava trabalhar;7,40;15,70
+1;Norte;2023;Mulheres;Problemas de saúde permanente;18,50;3,40
+1;Norte;2023;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;8,70;13,90
+1;Norte;2023;Mulheres;Total;;100,00
+1;Norte;2023;Total;Não tinha escola na localidade, vaga ou turno desejado;13,40;7,00
+1;Norte;2023;Total;Não tinha interesse em estudar;4,80;23,10
+1;Norte;2023;Total;Outros motivos;6,60;11,90
+1;Norte;2023;Total;Por gravidez;5,80;12,70
+1;Norte;2023;Total;Precisava trabalhar;3,80;34,80
+1;Norte;2023;Total;Problemas de saúde permanente;10,30;3,90
+1;Norte;2023;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;8,70;6,50
+1;Norte;2023;Total;Total;;100,00
+1;Norte;2024;Homens;Não tinha escola na localidade, vaga ou turno desejado;14,00;4,90
+1;Norte;2024;Homens;Não tinha interesse em estudar;5,90;26,30
+1;Norte;2024;Homens;Outros motivos;9,20;11,10
+1;Norte;2024;Homens;Precisava trabalhar;3,20;53,40
+1;Norte;2024;Homens;Problemas de saúde permanente;15,00;3,40
+1;Norte;2024;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;31,90;1,00
+1;Norte;2024;Homens;Total;;100,00
+1;Norte;2024;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;13,60;7,70
+1;Norte;2024;Mulheres;Não tinha interesse em estudar;7,50;19,30
+1;Norte;2024;Mulheres;Outros motivos;10,10;10,50
+1;Norte;2024;Mulheres;Por gravidez;5,90;29,90
+1;Norte;2024;Mulheres;Precisava trabalhar;7,40;17,40
+1;Norte;2024;Mulheres;Problemas de saúde permanente;21,00;3,00
+1;Norte;2024;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,10;12,20
+1;Norte;2024;Mulheres;Total;;100,00
+1;Norte;2024;Total;Não tinha escola na localidade, vaga ou turno desejado;12,10;6,10
+1;Norte;2024;Total;Não tinha interesse em estudar;5,00;23,30
+1;Norte;2024;Total;Outros motivos;7,50;10,90
+1;Norte;2024;Total;Por gravidez;6,00;12,80
+1;Norte;2024;Total;Precisava trabalhar;3,30;38,00
+1;Norte;2024;Total;Problemas de saúde permanente;12,80;3,20
+1;Norte;2024;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,00;5,80
+1;Norte;2024;Total;Total;;100,00
+1;Norte;2025;Homens;Não tinha escola na localidade, vaga ou turno desejado;11,50;4,90
+1;Norte;2025;Homens;Não tinha interesse em estudar;5,70;29,50
+1;Norte;2025;Homens;Outros motivos;11,40;8,10
+1;Norte;2025;Homens;Precisava trabalhar;3,60;52,40
+1;Norte;2025;Homens;Problemas de saúde permanente;15,40;4,00
+1;Norte;2025;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;30,10;1,20
+1;Norte;2025;Homens;Total;;100,00
+1;Norte;2025;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;12,90;7,00
+1;Norte;2025;Mulheres;Não tinha interesse em estudar;7,60;20,30
+1;Norte;2025;Mulheres;Outros motivos;10,50;11,00
+1;Norte;2025;Mulheres;Por gravidez;6,60;31,70
+1;Norte;2025;Mulheres;Precisava trabalhar;8,80;16,80
+1;Norte;2025;Mulheres;Problemas de saúde permanente;19,60;3,00
+1;Norte;2025;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,00;10,30
+1;Norte;2025;Mulheres;Total;;100,00
+1;Norte;2025;Total;Não tinha escola na localidade, vaga ou turno desejado;10,30;5,80
+1;Norte;2025;Total;Não tinha interesse em estudar;4,90;25,60
+1;Norte;2025;Total;Outros motivos;8,70;9,30
+1;Norte;2025;Total;Por gravidez;7,30;13,30
+1;Norte;2025;Total;Precisava trabalhar;3,60;37,50
+1;Norte;2025;Total;Problemas de saúde permanente;12,10;3,50
+1;Norte;2025;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;9,50;5,00
+1;Norte;2025;Total;Total;;100,00
+2;Nordeste;2019;Homens;Não tinha escola na localidade, vaga ou turno desejado;8,30;2,50
+2;Nordeste;2019;Homens;Não tinha interesse em estudar;2,00;35,50
+2;Nordeste;2019;Homens;Outros motivos;5,30;8,50
+2;Nordeste;2019;Homens;Precisava trabalhar;1,60;48,40
+2;Nordeste;2019;Homens;Problemas de saúde permanente;7,20;4,50
+2;Nordeste;2019;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;18,00;0,60
+2;Nordeste;2019;Homens;Total;;100,00
+2;Nordeste;2019;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;9,00;4,30
+2;Nordeste;2019;Mulheres;Não tinha interesse em estudar;3,10;24,70
+2;Nordeste;2019;Mulheres;Outros motivos;6,30;9,00
+2;Nordeste;2019;Mulheres;Por gravidez;2,80;27,10
+2;Nordeste;2019;Mulheres;Precisava trabalhar;4,30;17,20
+2;Nordeste;2019;Mulheres;Problemas de saúde permanente;9,40;3,70
+2;Nordeste;2019;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,30;14,00
+2;Nordeste;2019;Mulheres;Total;;100,00
+2;Nordeste;2019;Total;Não tinha escola na localidade, vaga ou turno desejado;6,30;3,30
+2;Nordeste;2019;Total;Não tinha interesse em estudar;1,90;30,80
+2;Nordeste;2019;Total;Outros motivos;4,40;8,70
+2;Nordeste;2019;Total;Por gravidez;3,10;11,70
+2;Nordeste;2019;Total;Precisava trabalhar;1,60;34,90
+2;Nordeste;2019;Total;Problemas de saúde permanente;5,90;4,20
+2;Nordeste;2019;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;4,30;6,40
+2;Nordeste;2019;Total;Total;;100,00
+2;Nordeste;2022;Homens;Não tinha escola na localidade, vaga ou turno desejado;11,40;2,70
+2;Nordeste;2022;Homens;Não tinha interesse em estudar;3,20;29,20
+2;Nordeste;2022;Homens;Outros motivos;4,90;14,20
+2;Nordeste;2022;Homens;Precisava trabalhar;2,30;48,20
+2;Nordeste;2022;Homens;Problemas de saúde permanente;8,50;5,10
+2;Nordeste;2022;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;25,00;0,60
+2;Nordeste;2022;Homens;Total;;100,00
+2;Nordeste;2022;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;10,30;4,50
+2;Nordeste;2022;Mulheres;Não tinha interesse em estudar;4,30;23,60
+2;Nordeste;2022;Mulheres;Outros motivos;5,60;15,00
+2;Nordeste;2022;Mulheres;Por gravidez;3,90;23,90
+2;Nordeste;2022;Mulheres;Precisava trabalhar;4,80;16,40
+2;Nordeste;2022;Mulheres;Problemas de saúde permanente;13,00;4,20
+2;Nordeste;2022;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;5,80;12,40
+2;Nordeste;2022;Mulheres;Total;;100,00
+2;Nordeste;2022;Total;Não tinha escola na localidade, vaga ou turno desejado;7,80;3,50
+2;Nordeste;2022;Total;Não tinha interesse em estudar;2,70;26,80
+2;Nordeste;2022;Total;Outros motivos;3,80;14,50
+2;Nordeste;2022;Total;Por gravidez;4,00;10,30
+2;Nordeste;2022;Total;Precisava trabalhar;2,10;34,50
+2;Nordeste;2022;Total;Problemas de saúde permanente;8,00;4,70
+2;Nordeste;2022;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;6,10;5,70
+2;Nordeste;2022;Total;Total;;100,00
+2;Nordeste;2023;Homens;Não tinha escola na localidade, vaga ou turno desejado;13,90;2,00
+2;Nordeste;2023;Homens;Não tinha interesse em estudar;3,70;28,60
+2;Nordeste;2023;Homens;Outros motivos;5,20;14,70
+2;Nordeste;2023;Homens;Precisava trabalhar;2,10;48,90
+2;Nordeste;2023;Homens;Problemas de saúde permanente;7,70;5,30
+2;Nordeste;2023;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;28,60;0,60
+2;Nordeste;2023;Homens;Total;;100,00
+2;Nordeste;2023;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;13,10;2,90
+2;Nordeste;2023;Mulheres;Não tinha interesse em estudar;4,00;24,10
+2;Nordeste;2023;Mulheres;Outros motivos;5,30;14,80
+2;Nordeste;2023;Mulheres;Por gravidez;4,00;23,90
+2;Nordeste;2023;Mulheres;Precisava trabalhar;5,20;20,20
+2;Nordeste;2023;Mulheres;Problemas de saúde permanente;11,20;3,00
+2;Nordeste;2023;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;6,20;11,20
+2;Nordeste;2023;Mulheres;Total;;100,00
+2;Nordeste;2023;Total;Não tinha escola na localidade, vaga ou turno desejado;9,80;2,40
+2;Nordeste;2023;Total;Não tinha interesse em estudar;3,00;26,70
+2;Nordeste;2023;Total;Outros motivos;4,10;14,70
+2;Nordeste;2023;Total;Por gravidez;4,40;10,30
+2;Nordeste;2023;Total;Precisava trabalhar;2,20;36,50
+2;Nordeste;2023;Total;Problemas de saúde permanente;6,50;4,30
+2;Nordeste;2023;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;6,90;5,20
+2;Nordeste;2023;Total;Total;;100,00
+2;Nordeste;2024;Homens;Não tinha escola na localidade, vaga ou turno desejado;11,00;1,80
+2;Nordeste;2024;Homens;Não tinha interesse em estudar;3,20;28,60
+2;Nordeste;2024;Homens;Outros motivos;5,40;12,20
+2;Nordeste;2024;Homens;Precisava trabalhar;2,20;50,90
+2;Nordeste;2024;Homens;Problemas de saúde permanente;7,80;5,60
+2;Nordeste;2024;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;22,20;0,90
+2;Nordeste;2024;Homens;Total;;100,00
+2;Nordeste;2024;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;12,10;2,70
+2;Nordeste;2024;Mulheres;Não tinha interesse em estudar;4,40;25,40
+2;Nordeste;2024;Mulheres;Outros motivos;5,70;14,00
+2;Nordeste;2024;Mulheres;Por gravidez;4,10;25,60
+2;Nordeste;2024;Mulheres;Precisava trabalhar;4,90;17,70
+2;Nordeste;2024;Mulheres;Problemas de saúde permanente;12,10;3,70
+2;Nordeste;2024;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;6,00;10,90
+2;Nordeste;2024;Mulheres;Total;;100,00
+2;Nordeste;2024;Total;Não tinha escola na localidade, vaga ou turno desejado;8,20;2,20
+2;Nordeste;2024;Total;Não tinha interesse em estudar;2,80;27,30
+2;Nordeste;2024;Total;Outros motivos;4,40;13,00
+2;Nordeste;2024;Total;Por gravidez;4,20;10,80
+2;Nordeste;2024;Total;Precisava trabalhar;2,20;36,80
+2;Nordeste;2024;Total;Problemas de saúde permanente;6,70;4,80
+2;Nordeste;2024;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;6,40;5,10
+2;Nordeste;2024;Total;Total;;100,00
+2;Nordeste;2025;Homens;Não tinha escola na localidade, vaga ou turno desejado;13,20;2,30
+2;Nordeste;2025;Homens;Não tinha interesse em estudar;3,10;31,50
+2;Nordeste;2025;Homens;Outros motivos;6,10;9,50
+2;Nordeste;2025;Homens;Precisava trabalhar;2,30;50,60
+2;Nordeste;2025;Homens;Problemas de saúde permanente;8,00;5,20
+2;Nordeste;2025;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;23,90;1,00
+2;Nordeste;2025;Homens;Total;;100,00
+2;Nordeste;2025;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;12,50;3,10
+2;Nordeste;2025;Mulheres;Não tinha interesse em estudar;4,50;25,90
+2;Nordeste;2025;Mulheres;Outros motivos;7,60;10,30
+2;Nordeste;2025;Mulheres;Por gravidez;4,00;28,20
+2;Nordeste;2025;Mulheres;Precisava trabalhar;5,80;17,70
+2;Nordeste;2025;Mulheres;Problemas de saúde permanente;10,30;4,70
+2;Nordeste;2025;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;7,60;10,00
+2;Nordeste;2025;Mulheres;Total;;100,00
+2;Nordeste;2025;Total;Não tinha escola na localidade, vaga ou turno desejado;9,80;2,60
+2;Nordeste;2025;Total;Não tinha interesse em estudar;2,90;29,20
+2;Nordeste;2025;Total;Outros motivos;4,80;9,80
+2;Nordeste;2025;Total;Por gravidez;4,30;11,80
+2;Nordeste;2025;Total;Precisava trabalhar;2,40;36,80
+2;Nordeste;2025;Total;Problemas de saúde permanente;6,70;5,00
+2;Nordeste;2025;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;7,80;4,80
+2;Nordeste;2025;Total;Total;;100,00
+3;Sudeste;2019;Homens;Não tinha escola na localidade, vaga ou turno desejado;14,80;2,10
+3;Sudeste;2019;Homens;Não tinha interesse em estudar;3,70;31,90
+3;Sudeste;2019;Homens;Outros motivos;7,60;10,40
+3;Sudeste;2019;Homens;Precisava trabalhar;2,40;51,30
+3;Sudeste;2019;Homens;Problemas de saúde permanente;10,80;3,50
+3;Sudeste;2019;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;33,30;0,80
+3;Sudeste;2019;Homens;Total;;100,00
+3;Sudeste;2019;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;16,90;2,50
+3;Sudeste;2019;Mulheres;Não tinha interesse em estudar;4,60;24,40
+3;Sudeste;2019;Mulheres;Outros motivos;8,80;9,50
+3;Sudeste;2019;Mulheres;Por gravidez;5,20;21,80
+3;Sudeste;2019;Mulheres;Precisava trabalhar;5,00;28,60
+3;Sudeste;2019;Mulheres;Problemas de saúde permanente;16,50;2,70
+3;Sudeste;2019;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;15,90;10,60
+3;Sudeste;2019;Mulheres;Total;;100,00
+3;Sudeste;2019;Total;Não tinha escola na localidade, vaga ou turno desejado;11,00;2,30
+3;Sudeste;2019;Total;Não tinha interesse em estudar;3,30;28,90
+3;Sudeste;2019;Total;Outros motivos;5,90;10,00
+3;Sudeste;2019;Total;Por gravidez;4,90;8,90
+3;Sudeste;2019;Total;Precisava trabalhar;2,30;42,00
+3;Sudeste;2019;Total;Problemas de saúde permanente;9,10;3,20
+3;Sudeste;2019;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;15,40;4,80
+3;Sudeste;2019;Total;Total;;100,00
+3;Sudeste;2022;Homens;Não tinha escola na localidade, vaga ou turno desejado;19,60;2,00
+3;Sudeste;2022;Homens;Não tinha interesse em estudar;4,80;26,30
+3;Sudeste;2022;Homens;Outros motivos;6,30;15,40
+3;Sudeste;2022;Homens;Precisava trabalhar;2,60;52,30
+3;Sudeste;2022;Homens;Problemas de saúde permanente;13,10;3,60
+3;Sudeste;2022;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;34,90;0,40
+3;Sudeste;2022;Homens;Total;;100,00
+3;Sudeste;2022;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;20,50;2,40
+3;Sudeste;2022;Mulheres;Não tinha interesse em estudar;6,80;19,90
+3;Sudeste;2022;Mulheres;Outros motivos;8,60;17,60
+3;Sudeste;2022;Mulheres;Por gravidez;7,10;21,70
+3;Sudeste;2022;Mulheres;Precisava trabalhar;5,10;28,30
+3;Sudeste;2022;Mulheres;Problemas de saúde permanente;17,20;2,60
+3;Sudeste;2022;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,60;7,50
+3;Sudeste;2022;Mulheres;Total;;100,00
+3;Sudeste;2022;Total;Não tinha escola na localidade, vaga ou turno desejado;16,30;2,20
+3;Sudeste;2022;Total;Não tinha interesse em estudar;4,00;23,70
+3;Sudeste;2022;Total;Outros motivos;5,50;16,30
+3;Sudeste;2022;Total;Por gravidez;7,50;8,60
+3;Sudeste;2022;Total;Precisava trabalhar;2,50;42,80
+3;Sudeste;2022;Total;Problemas de saúde permanente;10,30;3,20
+3;Sudeste;2022;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;11,20;3,30
+3;Sudeste;2022;Total;Total;;100,00
+3;Sudeste;2023;Homens;Não tinha escola na localidade, vaga ou turno desejado;20,50;1,40
+3;Sudeste;2023;Homens;Não tinha interesse em estudar;5,00;23,70
+3;Sudeste;2023;Homens;Outros motivos;6,70;15,00
+3;Sudeste;2023;Homens;Precisava trabalhar;2,60;55,30
+3;Sudeste;2023;Homens;Problemas de saúde permanente;13,30;3,90
+3;Sudeste;2023;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;30,80;0,60
+3;Sudeste;2023;Homens;Total;;100,00
+3;Sudeste;2023;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;20,70;2,60
+3;Sudeste;2023;Mulheres;Não tinha interesse em estudar;10,30;20,10
+3;Sudeste;2023;Mulheres;Outros motivos;8,30;16,10
+3;Sudeste;2023;Mulheres;Por gravidez;7,00;21,50
+3;Sudeste;2023;Mulheres;Precisava trabalhar;5,60;28,20
+3;Sudeste;2023;Mulheres;Problemas de saúde permanente;16,00;4,70
+3;Sudeste;2023;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;13,70;6,90
+3;Sudeste;2023;Mulheres;Total;;100,00
+3;Sudeste;2023;Total;Não tinha escola na localidade, vaga ou turno desejado;14,60;1,90
+3;Sudeste;2023;Total;Não tinha interesse em estudar;5,40;22,30
+3;Sudeste;2023;Total;Outros motivos;5,30;15,40
+3;Sudeste;2023;Total;Por gravidez;7,30;8,60
+3;Sudeste;2023;Total;Precisava trabalhar;2,70;44,40
+3;Sudeste;2023;Total;Problemas de saúde permanente;11,10;4,20
+3;Sudeste;2023;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,80;3,10
+3;Sudeste;2023;Total;Total;;100,00
+3;Sudeste;2024;Homens;Não tinha escola na localidade, vaga ou turno desejado;23,10;1,10
+3;Sudeste;2024;Homens;Não tinha interesse em estudar;4,60;27,30
+3;Sudeste;2024;Homens;Outros motivos;6,90;14,60
+3;Sudeste;2024;Homens;Precisava trabalhar;2,90;52,20
+3;Sudeste;2024;Homens;Problemas de saúde permanente;12,50;4,00
+3;Sudeste;2024;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;25,80;0,80
+3;Sudeste;2024;Homens;Total;;100,00
+3;Sudeste;2024;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;21,50;2,10
+3;Sudeste;2024;Mulheres;Não tinha interesse em estudar;6,70;21,90
+3;Sudeste;2024;Mulheres;Outros motivos;8,60;14,80
+3;Sudeste;2024;Mulheres;Por gravidez;7,00;20,50
+3;Sudeste;2024;Mulheres;Precisava trabalhar;5,30;29,50
+3;Sudeste;2024;Mulheres;Problemas de saúde permanente;20,50;3,90
+3;Sudeste;2024;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,30;7,30
+3;Sudeste;2024;Mulheres;Total;;100,00
+3;Sudeste;2024;Total;Não tinha escola na localidade, vaga ou turno desejado;16,30;1,50
+3;Sudeste;2024;Total;Não tinha interesse em estudar;4,00;25,20
+3;Sudeste;2024;Total;Outros motivos;5,60;14,70
+3;Sudeste;2024;Total;Por gravidez;7,40;7,80
+3;Sudeste;2024;Total;Precisava trabalhar;2,70;43,50
+3;Sudeste;2024;Total;Problemas de saúde permanente;10,60;4,00
+3;Sudeste;2024;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,00;3,30
+3;Sudeste;2024;Total;Total;;100,00
+3;Sudeste;2025;Homens;Não tinha escola na localidade, vaga ou turno desejado;22,20;1,70
+3;Sudeste;2025;Homens;Não tinha interesse em estudar;5,50;26,80
+3;Sudeste;2025;Homens;Outros motivos;8,90;11,00
+3;Sudeste;2025;Homens;Precisava trabalhar;2,80;55,70
+3;Sudeste;2025;Homens;Problemas de saúde permanente;12,20;4,40
+3;Sudeste;2025;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;40,30;0,40
+3;Sudeste;2025;Homens;Total;;100,00
+3;Sudeste;2025;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;18,00;2,90
+3;Sudeste;2025;Mulheres;Não tinha interesse em estudar;7,50;20,30
+3;Sudeste;2025;Mulheres;Outros motivos;10,30;11,80
+3;Sudeste;2025;Mulheres;Por gravidez;7,40;20,30
+3;Sudeste;2025;Mulheres;Precisava trabalhar;5,00;33,80
+3;Sudeste;2025;Mulheres;Problemas de saúde permanente;18,50;4,20
+3;Sudeste;2025;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,20;6,60
+3;Sudeste;2025;Mulheres;Total;;100,00
+3;Sudeste;2025;Total;Não tinha escola na localidade, vaga ou turno desejado;14,40;2,20
+3;Sudeste;2025;Total;Não tinha interesse em estudar;4,60;24,30
+3;Sudeste;2025;Total;Outros motivos;7,40;11,30
+3;Sudeste;2025;Total;Por gravidez;7,70;7,90
+3;Sudeste;2025;Total;Precisava trabalhar;2,40;47,20
+3;Sudeste;2025;Total;Problemas de saúde permanente;9,90;4,30
+3;Sudeste;2025;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;11,70;2,80
+3;Sudeste;2025;Total;Total;;100,00
+4;Sul;2019;Homens;Não tinha escola na localidade, vaga ou turno desejado;16,20;1,60
+4;Sul;2019;Homens;Não tinha interesse em estudar;4,50;26,60
+4;Sul;2019;Homens;Outros motivos;7,10;11,00
+4;Sul;2019;Homens;Precisava trabalhar;2,30;57,00
+4;Sul;2019;Homens;Problemas de saúde permanente;13,00;3,10
+4;Sul;2019;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;27,60;0,80
+4;Sul;2019;Homens;Total;;100,00
+4;Sul;2019;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;13,20;3,50
+4;Sul;2019;Mulheres;Não tinha interesse em estudar;6,10;21,90
+4;Sul;2019;Mulheres;Outros motivos;11,60;11,20
+4;Sul;2019;Mulheres;Por gravidez;7,10;16,40
+4;Sul;2019;Mulheres;Precisava trabalhar;4,40;37,60
+4;Sul;2019;Mulheres;Problemas de saúde permanente;17,40;2,00
+4;Sul;2019;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,20;7,30
+4;Sul;2019;Mulheres;Total;;100,00
+4;Sul;2019;Total;Não tinha escola na localidade, vaga ou turno desejado;10,70;2,40
+4;Sul;2019;Total;Não tinha interesse em estudar;4,00;24,70
+4;Sul;2019;Total;Outros motivos;6,40;11,00
+4;Sul;2019;Total;Por gravidez;7,20;6,70
+4;Sul;2019;Total;Precisava trabalhar;2,20;49,10
+4;Sul;2019;Total;Problemas de saúde permanente;10,50;2,60
+4;Sul;2019;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;9,40;3,40
+4;Sul;2019;Total;Total;;100,00
+4;Sul;2022;Homens;Não tinha escola na localidade, vaga ou turno desejado;18,30;2,10
+4;Sul;2022;Homens;Não tinha interesse em estudar;4,80;24,90
+4;Sul;2022;Homens;Outros motivos;6,80;14,30
+4;Sul;2022;Homens;Precisava trabalhar;2,50;54,00
+4;Sul;2022;Homens;Problemas de saúde permanente;13,60;3,70
+4;Sul;2022;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;32,70;0,90
+4;Sul;2022;Homens;Total;;100,00
+4;Sul;2022;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;16,50;3,30
+4;Sul;2022;Mulheres;Não tinha interesse em estudar;6,50;22,60
+4;Sul;2022;Mulheres;Outros motivos;7,40;13,00
+4;Sul;2022;Mulheres;Por gravidez;7,20;15,90
+4;Sul;2022;Mulheres;Precisava trabalhar;4,50;35,10
+4;Sul;2022;Mulheres;Problemas de saúde permanente;17,60;3,20
+4;Sul;2022;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;11,00;6,90
+4;Sul;2022;Mulheres;Total;;100,00
+4;Sul;2022;Total;Não tinha escola na localidade, vaga ou turno desejado;13,50;2,60
+4;Sul;2022;Total;Não tinha interesse em estudar;4,30;24,00
+4;Sul;2022;Total;Outros motivos;5,20;13,80
+4;Sul;2022;Total;Por gravidez;7,50;6,40
+4;Sul;2022;Total;Precisava trabalhar;2,30;46,40
+4;Sul;2022;Total;Problemas de saúde permanente;9,80;3,50
+4;Sul;2022;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,30;3,30
+4;Sul;2022;Total;Total;;100,00
+4;Sul;2023;Homens;Não tinha escola na localidade, vaga ou turno desejado;18,20;2,10
+4;Sul;2023;Homens;Não tinha interesse em estudar;4,70;23,10
+4;Sul;2023;Homens;Outros motivos;7,70;11,50
+4;Sul;2023;Homens;Precisava trabalhar;2,40;57,90
+4;Sul;2023;Homens;Problemas de saúde permanente;12,50;4,00
+4;Sul;2023;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;24,30;1,40
+4;Sul;2023;Homens;Total;;100,00
+4;Sul;2023;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;17,50;3,00
+4;Sul;2023;Mulheres;Não tinha interesse em estudar;7,70;18,00
+4;Sul;2023;Mulheres;Outros motivos;9,10;14,20
+4;Sul;2023;Mulheres;Por gravidez;9,10;16,00
+4;Sul;2023;Mulheres;Precisava trabalhar;4,20;39,00
+4;Sul;2023;Mulheres;Problemas de saúde permanente;16,40;2,90
+4;Sul;2023;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,20;6,90
+4;Sul;2023;Mulheres;Total;;100,00
+4;Sul;2023;Total;Não tinha escola na localidade, vaga ou turno desejado;13,20;2,50
+4;Sul;2023;Total;Não tinha interesse em estudar;4,30;21,10
+4;Sul;2023;Total;Outros motivos;6,10;12,60
+4;Sul;2023;Total;Por gravidez;9,70;6,50
+4;Sul;2023;Total;Precisava trabalhar;2,30;50,20
+4;Sul;2023;Total;Problemas de saúde permanente;10,10;3,60
+4;Sul;2023;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;11,20;3,60
+4;Sul;2023;Total;Total;;100,00
+4;Sul;2024;Homens;Não tinha escola na localidade, vaga ou turno desejado;28,00;1,50
+4;Sul;2024;Homens;Não tinha interesse em estudar;5,20;22,60
+4;Sul;2024;Homens;Outros motivos;7,70;11,50
+4;Sul;2024;Homens;Precisava trabalhar;2,30;60,00
+4;Sul;2024;Homens;Problemas de saúde permanente;13,10;3,60
+4;Sul;2024;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;33,70;0,80
+4;Sul;2024;Homens;Total;;100,00
+4;Sul;2024;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;21,70;2,90
+4;Sul;2024;Mulheres;Não tinha interesse em estudar;7,30;19,60
+4;Sul;2024;Mulheres;Outros motivos;9,70;12,50
+4;Sul;2024;Mulheres;Por gravidez;7,60;17,90
+4;Sul;2024;Mulheres;Precisava trabalhar;5,10;39,40
+4;Sul;2024;Mulheres;Problemas de saúde permanente;17,90;2,80
+4;Sul;2024;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;15,80;4,90
+4;Sul;2024;Mulheres;Total;;100,00
+4;Sul;2024;Total;Não tinha escola na localidade, vaga ou turno desejado;16,80;2,10
+4;Sul;2024;Total;Não tinha interesse em estudar;4,60;21,50
+4;Sul;2024;Total;Outros motivos;6,00;11,90
+4;Sul;2024;Total;Por gravidez;8,30;7,00
+4;Sul;2024;Total;Precisava trabalhar;2,30;51,90
+4;Sul;2024;Total;Problemas de saúde permanente;10,70;3,30
+4;Sul;2024;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,60;2,40
+4;Sul;2024;Total;Total;;100,00
+4;Sul;2025;Homens;Não tinha escola na localidade, vaga ou turno desejado;20,90;1,80
+4;Sul;2025;Homens;Não tinha interesse em estudar;5,70;22,10
+4;Sul;2025;Homens;Outros motivos;8,50;13,10
+4;Sul;2025;Homens;Precisava trabalhar;2,90;56,90
+4;Sul;2025;Homens;Problemas de saúde permanente;11,00;5,30
+4;Sul;2025;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;32,50;0,70
+4;Sul;2025;Homens;Total;;100,00
+4;Sul;2025;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;21,60;3,10
+4;Sul;2025;Mulheres;Não tinha interesse em estudar;7,10;18,80
+4;Sul;2025;Mulheres;Outros motivos;9,70;11,10
+4;Sul;2025;Mulheres;Por gravidez;8,60;18,80
+4;Sul;2025;Mulheres;Precisava trabalhar;5,30;36,80
+4;Sul;2025;Mulheres;Problemas de saúde permanente;19,60;4,30
+4;Sul;2025;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;13,60;7,10
+4;Sul;2025;Mulheres;Total;;100,00
+4;Sul;2025;Total;Não tinha escola na localidade, vaga ou turno desejado;16,80;2,30
+4;Sul;2025;Total;Não tinha interesse em estudar;4,50;20,80
+4;Sul;2025;Total;Outros motivos;6,90;12,30
+4;Sul;2025;Total;Por gravidez;8,90;7,20
+4;Sul;2025;Total;Precisava trabalhar;2,70;49,20
+4;Sul;2025;Total;Problemas de saúde permanente;10,20;4,90
+4;Sul;2025;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,80;3,20
+4;Sul;2025;Total;Total;;100,00
+5;Centro-Oeste;2019;Homens;Não tinha escola na localidade, vaga ou turno desejado;25,10;1,60
+5;Centro-Oeste;2019;Homens;Não tinha interesse em estudar;4,80;30,00
+5;Centro-Oeste;2019;Homens;Outros motivos;11,60;7,60
+5;Centro-Oeste;2019;Homens;Precisava trabalhar;2,70;57,30
+5;Centro-Oeste;2019;Homens;Problemas de saúde permanente;14,80;3,10
+5;Centro-Oeste;2019;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;40,10;0,40
+5;Centro-Oeste;2019;Homens;Total;;100,00
+5;Centro-Oeste;2019;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;16,90;2,90
+5;Centro-Oeste;2019;Mulheres;Não tinha interesse em estudar;6,90;23,60
+5;Centro-Oeste;2019;Mulheres;Outros motivos;12,60;7,60
+5;Centro-Oeste;2019;Mulheres;Por gravidez;6,30;27,30
+5;Centro-Oeste;2019;Mulheres;Precisava trabalhar;6,30;25,20
+5;Centro-Oeste;2019;Mulheres;Problemas de saúde permanente;22,60;2,50
+5;Centro-Oeste;2019;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;10,00;11,00
+5;Centro-Oeste;2019;Mulheres;Total;;100,00
+5;Centro-Oeste;2019;Total;Não tinha escola na localidade, vaga ou turno desejado;12,90;2,20
+5;Centro-Oeste;2019;Total;Não tinha interesse em estudar;4,10;27,20
+5;Centro-Oeste;2019;Total;Outros motivos;8,70;7,60
+5;Centro-Oeste;2019;Total;Por gravidez;6,60;11,60
+5;Centro-Oeste;2019;Total;Precisava trabalhar;2,80;43,60
+5;Centro-Oeste;2019;Total;Problemas de saúde permanente;12,30;2,80
+5;Centro-Oeste;2019;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;9,80;4,90
+5;Centro-Oeste;2019;Total;Total;;100,00
+5;Centro-Oeste;2022;Homens;Não tinha escola na localidade, vaga ou turno desejado;19,30;2,40
+5;Centro-Oeste;2022;Homens;Não tinha interesse em estudar;6,90;24,90
+5;Centro-Oeste;2022;Homens;Outros motivos;10,60;11,70
+5;Centro-Oeste;2022;Homens;Precisava trabalhar;3,30;57,60
+5;Centro-Oeste;2022;Homens;Problemas de saúde permanente;14,40;2,90
+5;Centro-Oeste;2022;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;33,70;0,50
+5;Centro-Oeste;2022;Homens;Total;;100,00
+5;Centro-Oeste;2022;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;24,40;3,10
+5;Centro-Oeste;2022;Mulheres;Não tinha interesse em estudar;8,40;20,50
+5;Centro-Oeste;2022;Mulheres;Outros motivos;10,40;12,90
+5;Centro-Oeste;2022;Mulheres;Por gravidez;8,30;22,40
+5;Centro-Oeste;2022;Mulheres;Precisava trabalhar;7,20;30,80
+5;Centro-Oeste;2022;Mulheres;Problemas de saúde permanente;28,90;1,90
+5;Centro-Oeste;2022;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;13,30;8,40
+5;Centro-Oeste;2022;Mulheres;Total;;100,00
+5;Centro-Oeste;2022;Total;Não tinha escola na localidade, vaga ou turno desejado;15,50;2,70
+5;Centro-Oeste;2022;Total;Não tinha interesse em estudar;5,90;23,20
+5;Centro-Oeste;2022;Total;Outros motivos;7,50;12,20
+5;Centro-Oeste;2022;Total;Por gravidez;8,20;8,70
+5;Centro-Oeste;2022;Total;Precisava trabalhar;3,30;47,20
+5;Centro-Oeste;2022;Total;Problemas de saúde permanente;14,20;2,50
+5;Centro-Oeste;2022;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;12,60;3,60
+5;Centro-Oeste;2022;Total;Total;;100,00
+5;Centro-Oeste;2023;Homens;Não tinha escola na localidade, vaga ou turno desejado;24,60;2,00
+5;Centro-Oeste;2023;Homens;Não tinha interesse em estudar;7,50;24,30
+5;Centro-Oeste;2023;Homens;Outros motivos;11,40;13,50
+5;Centro-Oeste;2023;Homens;Precisava trabalhar;3,40;56,80
+5;Centro-Oeste;2023;Homens;Problemas de saúde permanente;19,70;2,90
+5;Centro-Oeste;2023;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;39,90;0,60
+5;Centro-Oeste;2023;Homens;Total;;100,00
+5;Centro-Oeste;2023;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;23,00;3,30
+5;Centro-Oeste;2023;Mulheres;Não tinha interesse em estudar;8,60;19,40
+5;Centro-Oeste;2023;Mulheres;Outros motivos;13,70;10,20
+5;Centro-Oeste;2023;Mulheres;Por gravidez;7,80;26,20
+5;Centro-Oeste;2023;Mulheres;Precisava trabalhar;6,70;29,30
+5;Centro-Oeste;2023;Mulheres;Problemas de saúde permanente;21,70;2,30
+5;Centro-Oeste;2023;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,90;9,30
+5;Centro-Oeste;2023;Mulheres;Total;;100,00
+5;Centro-Oeste;2023;Total;Não tinha escola na localidade, vaga ou turno desejado;17,40;2,50
+5;Centro-Oeste;2023;Total;Não tinha interesse em estudar;6,00;22,30
+5;Centro-Oeste;2023;Total;Outros motivos;8,90;12,10
+5;Centro-Oeste;2023;Total;Por gravidez;8,50;10,70
+5;Centro-Oeste;2023;Total;Precisava trabalhar;3,00;45,60
+5;Centro-Oeste;2023;Total;Problemas de saúde permanente;13,90;2,70
+5;Centro-Oeste;2023;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,60;4,10
+5;Centro-Oeste;2023;Total;Total;;100,00
+5;Centro-Oeste;2024;Homens;Não tinha escola na localidade, vaga ou turno desejado;26,50;2,30
+5;Centro-Oeste;2024;Homens;Não tinha interesse em estudar;6,40;30,40
+5;Centro-Oeste;2024;Homens;Outros motivos;12,00;9,20
+5;Centro-Oeste;2024;Homens;Precisava trabalhar;3,70;55,10
+5;Centro-Oeste;2024;Homens;Problemas de saúde permanente;21,60;2,40
+5;Centro-Oeste;2024;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;45,70;0,60
+5;Centro-Oeste;2024;Homens;Total;;100,00
+5;Centro-Oeste;2024;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;20,30;4,60
+5;Centro-Oeste;2024;Mulheres;Não tinha interesse em estudar;9,60;22,50
+5;Centro-Oeste;2024;Mulheres;Outros motivos;10,70;13,80
+5;Centro-Oeste;2024;Mulheres;Por gravidez;8,70;21,90
+5;Centro-Oeste;2024;Mulheres;Precisava trabalhar;7,90;26,50
+5;Centro-Oeste;2024;Mulheres;Problemas de saúde permanente;27,40;2,30
+5;Centro-Oeste;2024;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,60;8,30
+5;Centro-Oeste;2024;Mulheres;Total;;100,00
+5;Centro-Oeste;2024;Total;Não tinha escola na localidade, vaga ou turno desejado;18,30;3,20
+5;Centro-Oeste;2024;Total;Não tinha interesse em estudar;5,70;27,20
+5;Centro-Oeste;2024;Total;Outros motivos;8,00;11,10
+5;Centro-Oeste;2024;Total;Por gravidez;9,60;8,80
+5;Centro-Oeste;2024;Total;Precisava trabalhar;3,60;43,60
+5;Centro-Oeste;2024;Total;Problemas de saúde permanente;17,50;2,40
+5;Centro-Oeste;2024;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,30;3,70
+5;Centro-Oeste;2024;Total;Total;;100,00
+5;Centro-Oeste;2025;Homens;Não tinha escola na localidade, vaga ou turno desejado;33,50;1,40
+5;Centro-Oeste;2025;Homens;Não tinha interesse em estudar;6,40;28,10
+5;Centro-Oeste;2025;Homens;Outros motivos;13,60;7,50
+5;Centro-Oeste;2025;Homens;Precisava trabalhar;3,40;59,40
+5;Centro-Oeste;2025;Homens;Problemas de saúde permanente;19,10;3,30
+5;Centro-Oeste;2025;Homens;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;87,00;0,20
+5;Centro-Oeste;2025;Homens;Total;;100,00
+5;Centro-Oeste;2025;Mulheres;Não tinha escola na localidade, vaga ou turno desejado;25,50;3,60
+5;Centro-Oeste;2025;Mulheres;Não tinha interesse em estudar;10,50;18,70
+5;Centro-Oeste;2025;Mulheres;Outros motivos;14,10;9,30
+5;Centro-Oeste;2025;Mulheres;Por gravidez;8,10;27,10
+5;Centro-Oeste;2025;Mulheres;Precisava trabalhar;7,50;28,60
+5;Centro-Oeste;2025;Mulheres;Problemas de saúde permanente;26,50;2,40
+5;Centro-Oeste;2025;Mulheres;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,90;10,30
+5;Centro-Oeste;2025;Mulheres;Total;;100,00
+5;Centro-Oeste;2025;Total;Não tinha escola na localidade, vaga ou turno desejado;20,90;2,20
+5;Centro-Oeste;2025;Total;Não tinha interesse em estudar;5,90;24,60
+5;Centro-Oeste;2025;Total;Outros motivos;11,00;8,20
+5;Centro-Oeste;2025;Total;Por gravidez;9,00;10,30
+5;Centro-Oeste;2025;Total;Precisava trabalhar;3,30;47,80
+5;Centro-Oeste;2025;Total;Problemas de saúde permanente;16,00;3,00
+5;Centro-Oeste;2025;Total;Tinha de realizar afazeres domésticos ou cuidar de crianças, adolescentes, idosos ou pessoas com deficiência;14,90;4,00
+5;Centro-Oeste;2025;Total;Total;;100,00
