@@ -83,6 +83,7 @@ PORTE_MINIMO = 50       # matrículas no ensino médio para entrar no modelo de 
 # uma escola "melhor que o esperado" fica no máximo em 0% (com esperado ~2,4%, o resíduo
 # raramente chega a -2 desvios). Com z <= -1 e z >= 2 os dois grupos ficam com ~5% cada.
 Z_PIOR = 2.0
+LIMITE_ERRO = 50.0      # abandono acima disso = suspeita de erro de registro
 Z_MELHOR = -1.0
 
 UFS = {11: ("RO", "Rondônia", "Norte"), 12: ("AC", "Acre", "Norte"), 13: ("AM", "Amazonas", "Norte"),
@@ -287,7 +288,15 @@ def anomalias(rend: pd.DataFrame, dim: pd.DataFrame) -> pd.DataFrame:
     d["MUNICIPAL"] = (d["DEPENDENCIA"] == "Municipal").astype(int)
     d["FEDERAL"] = (d["DEPENDENCIA"] == "Federal").astype(int)
     xs = ["INSE", "TDI_MED_2025", "RURAL", "MUNICIPAL", "FEDERAL"]
-    d["NO_MODELO"] = d[xs].notna().all(axis=1) & (d["MATRICULAS_MEDIO"] >= PORTE_MINIMO)
+    # Consistência: abandono acima de 50% numa escola com turmas regulares é quase sempre erro de
+    # registro (curso encerrado, transferência em massa lançada como abandono). Fica fora do modelo.
+    # Só em escolas com porte do modelo: em escolas pequenas (ex.: indígenas, rurais) uma taxa alta
+    # pode ser real e vem de poucos alunos — essas já ficam "Fora do modelo".
+    d["SUSPEITA_ERRO"] = (d["ABA_MED"] > LIMITE_ERRO) & (d["MATRICULAS_MEDIO"] >= PORTE_MINIMO)
+    log(f"Escolas com abandono > {LIMITE_ERRO}% marcadas como suspeita de erro de dado: "
+        f"{int(d['SUSPEITA_ERRO'].sum())} ({', '.join(d.loc[d['SUSPEITA_ERRO'], 'NO_ESCOLA'].head(5))})")
+    d["NO_MODELO"] = (d[xs].notna().all(axis=1) & (d["MATRICULAS_MEDIO"] >= PORTE_MINIMO)
+                      & ~d["SUSPEITA_ERRO"])
 
     treino = d[d["NO_MODELO"]]
     X = np.column_stack([np.ones(len(treino))] + [treino[x].to_numpy(float) for x in xs])
@@ -302,8 +311,8 @@ def anomalias(rend: pd.DataFrame, dim: pd.DataFrame) -> pd.DataFrame:
     d["RESIDUO"] = d["ABA_MED"] - d["ABANDONO_ESPERADO"]
     d["Z_SCORE"] = d["RESIDUO"] / dp
     d["CLASSIFICACAO"] = np.select(
-        [~m, d["Z_SCORE"] >= Z_PIOR, d["Z_SCORE"] <= Z_MELHOR],
-        ["Fora do modelo", "Muito pior que o esperado", "Muito melhor que o esperado"],
+        [d["SUSPEITA_ERRO"], ~m, d["Z_SCORE"] >= Z_PIOR, d["Z_SCORE"] <= Z_MELHOR],
+        ["Suspeita de erro de dado", "Fora do modelo", "Muito pior que o esperado", "Muito melhor que o esperado"],
         default="Dentro do esperado")
 
     a22 = rend[rend["ANO"] == 2022].set_index("CO_ESCOLA")["ABA_MED"]
@@ -463,7 +472,8 @@ DICIONARIO = {
         "ABANDONO_ESPERADO": "Previsto pelo modelo (INSE + distorção idade-série + rural + rede)",
         "RESIDUO": "Observado − esperado (p.p.)", "Z_SCORE": "Resíduo dividido pelo desvio-padrão dos resíduos",
         "CLASSIFICACAO": "Muito pior (z ≥ 2) / Dentro / Muito melhor (z ≤ −1) que o esperado, ou Fora do modelo "
-                         "(menos de 50 matrículas no médio, sem INSE ou sem TDI)",
+                         "(menos de 50 matrículas no médio, sem INSE ou sem TDI) ou Suspeita de erro de dado (abandono > 50% "
+                         "em escola com 50+ matrículas no médio)",
         "FAIXA_INSE": "Faixa de INSE da escola (repetida aqui para facilitar o boxplot)",
         "OUTLIER_IQR": "Acima do limite (outlier) se abandono > Q3 + 1,5×IQR da sua faixa de INSE; "
                        "Dentro dos limites; ou Fora do modelo",

@@ -106,7 +106,7 @@ Ensino médio, rede pública, último ano: observado × esperado.
 | ABANDONO_ESPERADO | Previsto pelo modelo (INSE + distorção idade-série + rural + rede) |
 | RESIDUO | Observado − esperado (p.p.) |
 | Z_SCORE | Resíduo dividido pelo desvio-padrão dos resíduos |
-| CLASSIFICACAO | Muito pior (z ≥ 2) / Dentro / Muito melhor (z ≤ −1) que o esperado, ou Fora do modelo (menos de 50 matrículas no médio, sem INSE ou sem TDI) |
+| CLASSIFICACAO | Muito pior (z ≥ 2) / Dentro / Muito melhor (z ≤ −1) que o esperado, ou Fora do modelo (menos de 50 matrículas no médio, sem INSE ou sem TDI) ou Suspeita de erro de dado (abandono > 50% em escola com 50+ matrículas no médio) |
 | FAIXA_INSE | Faixa de INSE da escola (repetida aqui para facilitar o boxplot) |
 | OUTLIER_IQR | Acima do limite (outlier) se abandono > Q3 + 1,5×IQR da sua faixa de INSE; Dentro dos limites; ou Fora do modelo |
 | IQR_Q1 / IQR_MEDIANA / IQR_Q3 / IQR_LIM_SUPERIOR | Estatísticas do boxplot da faixa de INSE da escola |

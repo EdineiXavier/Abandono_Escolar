@@ -26,18 +26,20 @@
 
 ## 3. Redução e colunas criadas
 
+Escolas com abandono > 50.0% marcadas como suspeita de erro de dado: 2 (IFF - CAMPUS CAMPOS CENTRO, CE CASTELNUOVO)
 
-Modelo de abandono esperado (ensino médio, rede pública, 2025): 18,367 escolas com ≥50 matrículas, INSE e TDI.
-R² = 0.119; desvio-padrão do resíduo = 3.20 p.p.
+Modelo de abandono esperado (ensino médio, rede pública, 2025): 18,365 escolas com ≥50 matrículas, INSE e TDI.
+R² = 0.123; desvio-padrão do resíduo = 3.10 p.p.
 Cortes: muito pior se z ≥ 2.0; muito melhor se z ≤ -1.0 (assimétrico por causa do piso de 0% na taxa).
-Coeficientes: constante = -3.363, INSE = 0.803, TDI_MED_2025 = 0.109, RURAL = -0.395, MUNICIPAL = -0.102, FEDERAL = -0.897
+Coeficientes: constante = -3.286, INSE = 0.793, TDI_MED_2025 = 0.107, RURAL = -0.376, MUNICIPAL = -0.091, FEDERAL = -1.101
 
 | CLASSIFICACAO               |   count |
 |:----------------------------|--------:|
-| Dentro do esperado          |   16461 |
+| Dentro do esperado          |   16303 |
 | Fora do modelo              |    3044 |
-| Muito melhor que o esperado |    1082 |
-| Muito pior que o esperado   |     824 |
+| Muito melhor que o esperado |    1182 |
+| Muito pior que o esperado   |     880 |
+| Suspeita de erro de dado    |       2 |
 
 Outliers pelo IQR (Q3 + 1,5×IQR) por faixa de INSE:
 
@@ -45,7 +47,7 @@ Outliers pelo IQR (Q3 + 1,5×IQR) por faixa de INSE:
 |:--------------|---------:|--------------:|---------:|-------------------:|-------------------:|-----------------:|----------:|
 | Alto (VI–VII) |        0 |           0.7 |      2.4 |               6    |                  0 |               79 |      2032 |
 | Baixo (I–III) |        0 |           1.1 |      3.4 |               8.5  |                  0 |              293 |      4835 |
-| Médio (IV–V)  |        0 |           1.2 |      3.9 |               9.75 |                  0 |              518 |     11500 |
+| Médio (IV–V)  |        0 |           1.2 |      3.9 |               9.75 |                  0 |              516 |     11498 |
 
 O limite inferior é sempre 0 (Q1 − 1,5×IQR < 0), então só existem outliers para cima.
 
